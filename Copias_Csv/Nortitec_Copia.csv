@@ -1,0 +1,201 @@
+"Rep";"Cliente";"Contacto";"Data Entrada";"Data Recolha";"Marca";"Modelo";"N/S";"Carregador";"Bateria";"Cabo A/C";"Avaria";"Diagnostico";"Data Orçamentado";"Valor";"Aprovado";"Pronto";"Enviado";"Observações"
+18583;"TecLine";;"07/10/2025";"05/08/2025";"Apple";"MacBook Air";"SN877572";"s";"Não";"Não";"Não liga";"Substituir peça";"16/01/2025";103.66;"Pendente";"1";"Não";
+18584;"PCmais";;"21-03-2025";"22/06/2025";"Dell";"Inspiron";"SN895667";"N";;"Yes";"Porta USB danificada";"Troca de bateria";"2025/02/17";73.18;"Não";"0";"s";"Pré-OK até 100"
+18585;"InfoMaster";;"05/02/2025";"27042025";"Apple";"MACBOOK PRO";"SN969693";"?";"0";"n";"Dobradiça solta";"Limpeza interna";"10-02-2025";265.62;"?";"s";"No";
+18586;"TecLine";;"2025/08/25";"19 05 2025";"Dell";"INSPIRON";"SN738720";"?";"N";"1";"Não carrega";"Troca de teclado";"23042025";259.71;"Pendente";"Não";"S";"REP 00038"
+18587;"PCmais";;"16-05-2025";"07 05 2025";"Asus";"ZenBook";"SN787277";"No";"Yes";"?";"Ventoinha ruidosa";"Troca de teclado";"03102025";235.75;"?";"0";"Yes";"REP 00038"
+18588;"RM Informatica";;"2025/02/02";"15 07 2025";"HP";"ProBook";"SN260265";"?";"N";"?";"Teclado avariado";"Reballing GPU";"28 08 2025";111.85;"Pendente";"?";;"Pré-OK até 100"
+18589;"TecLine";;"14-09-2025";"17/09/2025";"Asus";"VivoBook";"SN407757";"Yes";"N";"No";"Aquecimento excessivo";"Troca de bateria";"02 06 2025";201.24;"N";"n";"N";"Verificar backup"
+18590;"PCmais";;"04 05 2025";"10/02/2025";"Asus";"TUF GAMING";"SN120422";"Sim";"n";"s";"Não carrega";"Atualização BIOS";"06/09/2025";293.5;"N";"N";"?";
+18591;"PCmais";;"2025/07/11";"2025/09/22";"MSI";"Prestige";"SN665492";;;"Não";"Erro de disco";"Reinstalar SO";"03-03-2025";105.17;"Não";"S";"0";"Verificar backup"
+18592;"TecLine";;"2025/05/23";"20 04 2025";"hp";"EliteBook";"SN170674";"S";"n";"Sim";"Bateria viciada";"Limpeza interna";"09 03 2025";193.05;"Aprovado";"No";"Yes";"Cliente solicita orçamento detalhado"
+18593;"InfoMaster";;"26072025";"25-02-2025";"Huawei";"XPro";"SN156802";"?";"?";"?";"Ecrã partido";"Atualização BIOS";"09-04-2025";183.07;"N";"Yes";"N";"REP 00038"
+18594;"FixLab";;"2025/03/27";"2025/09/06";"Samsung";"Galaxy Book";"SN153045";"?";"1";"S";"Ecrã partido";"Limpeza interna";"2025/04/20";274.61;"N";"Yes";"S";
+18595;"InfoMaster";;"30 01 2025";"05/10/2025";"samsung";"Book3";"SN853305";"No";"N";"Não";"Erro de disco";"Limpeza interna";"10/06/2025";61.54;;"1";"1";"Cliente solicita orçamento detalhado"
+18596;"RM Informatica";;"24 10 2025";"21 01 2025";"Toshiba";"Satellite";"SN808011";"Não";"Yes";"Sim";"Dobradiça solta";"Limpeza interna";"2025/02/11";213.34;"Não";"s";"Não";
+18597;"TecLine";;"21/02/2025";"03-10-2025";"Dell";"Vostro";"SN431535";"Sim";"S";"No";"Dobradiça solta";"Reballing GPU";"17092025";82.11;"Não";"Sim";"Não";"REP 00038"
+18598;"Nsistemas";;"10032025";"01/03/2025";"Toshiba";"Portege";"SN654634";"S";"?";"1";"Erro de disco";"Substituir peça";"11-10-2025";117.09;"Aprovado";;"n";"Cliente solicita orçamento detalhado"
+18599;"Nsistemas";;"08032025";"2025/03/24";"HP";"ProBook";"SN765095";"Yes";"s";"S";"Aquecimento excessivo";"Substituir ecrã";"2025/10/10";189.23;"S";"Sim";;"Cliente solicita orçamento detalhado"
+18600;"Sisopção";;"08/05/2025";"01 07 2025";"msi";"Prestige";"SN143860";"s";"n";"S";"Porta USB danificada";"Limpeza interna";"28 07 2025";236.37;"Aprovado";"N";"N";
+18601;"DataHelp";;"29-08-2025";"2025/04/13";"msi";"Prestige";"SN379766";"N";;"Sim";"Teclado avariado";"Atualização BIOS";"29062025";254.13;"Aprovado";"Não";"S";
+18602;"FixLab";;"15/01/2025";"14-05-2025";"Dell";"Latitude";"SN772642";"1";"Yes";"?";"Bateria viciada";"Substituir ecrã";"25102025";58.56;"?";"n";;"REP 00038"
+18603;"DataHelp";;"03-10-2025";"2025/07/06";"Toshiba";"Satellite";"SN367095";"S";;"Yes";"Aquecimento excessivo";"Troca de carregador";"05022025";204.79;"S";;"s";"Verificar backup"
+18604;"Nsistemas";;"19102025";"27 07 2025";"Samsung";"Galaxy Book";"SN301158";"Yes";"?";"Yes";"Não liga";"Reballing GPU";"01012025";120.73;"?";"0";"0";
+18605;"DigitalPT";;"21/06/2025";"01052025";"Huawei";"X PRO";"SN277934";"?";"Sim";"s";"Bateria viciada";"Reballing GPU";"26-04-2025";85.84;"Pendente";"Não";"No";"Verificar backup"
+18606;"TecLine";;"17/03/2025";"2025/02/24";"Toshiba";"SATELLITE";"SN853240";;"Yes";"No";"Teclado avariado";"Limpeza interna";"23-04-2025";250.03;;"S";"1";"Cliente solicita orçamento detalhado"
+18607;"CompLocal";;"2025/10/08";"2025/03/23";"Samsung";"Book3";"SN724377";"n";"No";"0";"Bateria viciada";"Reinstalar SO";"19082025";236.94;"Sim";"1";"No";
+18608;"SmartFix";;"16-07-2025";"20/04/2025";"Dell";"Latitude";"SN435239";"1";"Sim";"N";"Não liga";"Limpeza interna";"2025/08/01";131.72;;"Yes";"S";"Cliente solicita orçamento detalhado"
+18609;"ReparaJá";;"03 08 2025";"07 10 2025";"HP";"Victus";"SN498858";"No";"S";"n";"Erro de disco";"Reinstalar SO";"2025/04/23";103.86;"?";"No";"S";
+18610;"Sisopção";;"14/01/2025";"08-08-2025";"Huawei";"MateBook";"SN752483";"1";"S";"Yes";"Dobradiça solta";"Reballing GPU";"25-08-2025";61.57;"?";"n";"Não";
+18611;"FixLab";;"29-06-2025";"05/02/2025";"msi";"Raider";"SN975467";"Sim";"No";"S";"Bateria viciada";"Atualização BIOS";"16-01-2025";98.84;"Pendente";"0";"N";"Cliente solicita orçamento detalhado"
+18612;"SmartFix";;"25032025";"25 02 2025";"huawei";"X Pro";"SN368690";"n";"N";"0";"Dobradiça solta";"Substituir peça";"14012025";192.95;"?";"Yes";;"Cliente solicita orçamento detalhado"
+18613;"RM Informatica";;"09/07/2025";"17092025";"Dell";"Inspiron";"SN934904";"0";"S";"n";"Bateria viciada";"Reinstalar SO";"2025/01/07";254.58;"S";"Yes";"n";
+18614;"Sisopção";;"18052025";"06/05/2025";"Samsung";"BOOK3";"SN383201";"0";"1";"No";"Ventoinha ruidosa";"Reinstalar SO";"2025/05/23";109.97;;"0";"0";
+18615;"Sisopção";;"12/10/2025";"22-09-2025";"Huawei";"MateBook";"SN472060";"s";"n";"s";"Dobradiça solta";"Troca de bateria";"13-02-2025";229.02;;"1";"Não";
+18616;"Trilogica";;"2025/07/08";"11 10 2025";"Apple";"MacBook Pro";"SN332360";"Yes";;"Não";"Erro de disco";"Reballing GPU";"2025/06/26";298.16;"Não";"n";;
+18617;"SmartFix";;"05092025";"26 09 2025";"Asus";"VivoBook";"SN878967";"1";;"N";"Não carrega";"Limpeza interna";"25/05/2025";257.16;"Sim";"Não";"n";"Cliente solicita orçamento detalhado"
+18618;"Trilogica";;"07 01 2025";"2025/05/26";"HP";"Victus";"SN406327";;"N";"?";"Ventoinha ruidosa";"Substituir peça";"2025/09/03";134.18;"Pendente";"s";"No";"Pré-OK até 100"
+18619;"TecLine";;"2025/10/13";"26 04 2025";"HP";"ELITEBOOK";"SN256445";"0";"s";"Sim";"Não carrega";"Substituir peça";"2025/07/14";276.13;"Sim";"0";"Yes";"REP 00038"
+18620;"RM Informatica";;"30 03 2025";"08-02-2025";"Lenovo";"Zenbook";"SN321275";"s";"?";"Sim";"Não liga";"Limpeza interna";"2025/01/02";161.63;;"s";"S";"Cliente solicita orçamento detalhado"
+18621;"RM Informatica";;"28 02 2025";"26-04-2025";"Lenovo";"Legion";"SN926097";"?";"0";"?";"Não carrega";"Reinstalar SO";"17-05-2025";66.85;"N";"s";"0";
+18622;"CompLocal";;"2025/01/21";"15 06 2025";"dell";"Vostro";"SN385470";"1";"1";"No";"Ventoinha ruidosa";"Substituir peça";"09/05/2025";71.83;"Pendente";"?";"s";"Verificar backup"
+18623;"TecLine";;"29082025";"29072025";"Huawei";"D15";"SN290305";"0";"Yes";"?";"Ventoinha ruidosa";"Substituir peça";"14/06/2025";263.43;"Não";"Yes";;
+18624;"DigitalPT";;"21/09/2025";"2025/10/05";"HP";"OMEN";"SN192337";"n";"s";"n";"Ecrã partido";"Reinstalar SO";"31/07/2025";95.9;"Não";"0";"No";
+18625;"Sisopção";;"23032025";"10/10/2025";"Dell";"Vostro";"SN832168";"No";"Sim";"S";"Dobradiça solta";"Limpeza interna";"2025/10/10";72.3;"S";"No";"Sim";
+18626;"DigitalPT";;"2025/03/16";"08 04 2025";"Dell";"VOSTRO";"SN975271";"No";"No";"Não";"Ventoinha ruidosa";"Troca de carregador";"18-09-2025";265.01;"Sim";"Yes";"n";"Verificar backup"
+18627;"BitClinic";;"26062025";"10 10 2025";"Toshiba";"Portege";"SN791998";"No";"N";"No";"Bateria viciada";"Troca de SSD";"2025/07/13";282.21;"Aprovado";;"Não";"Verificar backup"
+18628;"MegaPC";;"19-01-2025";"15 09 2025";"huawei";"X PRO";"SN950823";"Yes";"Yes";"?";"Não liga";"Troca de SSD";"19/06/2025";267.55;;"Sim";"1";
+18629;"Sisopção";;"18 06 2025";"14072025";"Apple";"MacBook Pro";"SN919488";"s";"n";"0";"Teclado avariado";"Substituir peça";"07 09 2025";57.97;"S";"Não";"?";
+18630;"InfoMaster";;"16/06/2025";"31052025";"apple";"MACBOOK AIR";"SN565230";"N";;"s";"Aquecimento excessivo";"Atualização BIOS";"2025/07/11";85.39;"?";"0";"?";"Cliente solicita orçamento detalhado"
+18631;"PCmais";;"11/05/2025";"27082025";"Lenovo";"Yoga";"SN711484";"N";"Não";"No";"Erro de disco";"Troca de SSD";"07-10-2025";67.47;"Não";"0";"s";
+18632;"Nsistemas";;"03 07 2025";"01062025";"Lenovo";"Yoga";"SN994787";"No";"Sim";"Não";"Teclado avariado";"Reballing GPU";"2025/01/12";117.62;"Pendente";"0";;
+18633;"SmartFix";;"19/02/2025";"2025/06/08";"Toshiba";"TECRA";"SN329642";"?";"Não";"0";"Erro de disco";"Troca de teclado";"18 01 2025";140.22;"N";"Sim";"s";"REP 00038"
+18634;"DigitalPT";;"23/06/2025";"28/08/2025";"Asus";"EXPERTBOOK";"SN626169";"s";"N";"s";"Ventoinha ruidosa";"Troca de bateria";"14-03-2025";264.04;"?";"1";"n";"Pré-OK até 100"
+18635;"CompLocal";;"25-02-2025";"30/08/2025";"Asus";"Zenbook";"SN885395";"?";"s";"0";"Teclado avariado";"Substituir ecrã";"15102025";277.81;"Aprovado";"?";"Sim";
+18636;"InfoMaster";;"01 05 2025";"2025/03/11";"apple";"MacBookAir";"SN147549";"S";"s";"No";"Ecrã partido";"Substituir peça";"21082025";216.62;"?";"0";;
+18637;"CompLocal";;"16-08-2025";"05/07/2025";"toshiba";"TECRA";"SN393328";"S";;"n";"Não carrega";"Troca de SSD";"08 07 2025";274.42;"Não";"S";"Yes";"REP 00038"
+18638;"CompLocal";;"05-05-2025";"17-10-2025";"Apple";"MacBook Air";"SN772875";"?";"0";"S";"Aquecimento excessivo";"Substituir ecrã";"05 02 2025";100.79;"Aprovado";"Não";"n";"Cliente solicita orçamento detalhado"
+18639;"Sisopção";;"08012025";"02 05 2025";"Acer";"Predator";"SN362829";"N";"Sim";"?";"Aquecimento excessivo";"Troca de teclado";"15/06/2025";92.56;"Pendente";"N";;
+18640;"FixLab";;"23 01 2025";"2025/06/04";"Asus";"ExpertBook";"SN722503";"Sim";"No";"1";"Não carrega";"Reballing GPU";"16/01/2025";298.65;"?";"Yes";"?";"Pré-OK até 100"
+18641;"RM Informatica";;"08102025";"15 07 2025";"Asus";"ExpertBook";"SN255539";"Sim";"N";"s";"Dobradiça solta";"Reballing GPU";"29092025";162.43;"?";"Sim";;"Pré-OK até 100"
+18642;"ReparaJá";;"01/08/2025";"2025/06/10";"lenovo";"YOGA";"SN573489";"Não";"Yes";"n";"Ventoinha ruidosa";"Reinstalar SO";"10062025";142.58;"N";"?";"No";"Pré-OK até 100"
+18643;"ReparaJá";;"2025/03/04";"2025/07/01";"Asus";"ZenBook";"SN683397";"S";"0";"1";"Bateria viciada";"Substituir ecrã";"27012025";199.1;"Não";"Sim";"0";"Verificar backup"
+18644;"RM Informatica";;"15 10 2025";"13/10/2025";"asus";"EXPERTBOOK";"SN485415";"Sim";"s";"0";"Não carrega";"Reinstalar SO";"17/05/2025";94.1;"Sim";"n";"n";"Pré-OK até 100"
+18645;"RM Informatica";;"2025/07/12";"21082025";"Acer";"IDEAPAD";"SN763928";"S";"Sim";;"Bateria viciada";"Limpeza interna";"22032025";126.91;"Não";"0";"0";"Pré-OK até 100"
+18646;"Trilogica";;"01082025";"21 04 2025";"Apple";"MacBookPro";"SN564637";"?";"Yes";"No";"Dobradiça solta";"Troca de SSD";"28022025";156.48;"Sim";"?";"?";"Verificar backup"
+18647;"InfoMaster";;"29052025";"03/03/2025";"Toshiba";"Satellite";"SN108060";"Não";"s";"Não";"Não liga";"Troca de bateria";"2025/09/12";92.92;"?";"1";;"Cliente solicita orçamento detalhado"
+18648;"RM Informatica";;"08 08 2025";"2025/07/27";"MSI";"Modern";"SN557409";"S";"No";"Sim";"Porta USB danificada";"Reballing GPU";"29/05/2025";150.26;"Não";"N";"0";
+18649;"BitClinic";;"08062025";"24042025";"Apple";"MacBook Air";"SN556839";"0";"Yes";"1";"Ecrã partido";"Reinstalar SO";"28/03/2025";176.62;"S";"1";"1";"Cliente solicita orçamento detalhado"
+18650;"BitClinic";;"20/03/2025";"2025/04/01";"Acer";"Nitro";"SN207798";"N";"s";"Não";"Não liga";"Reballing GPU";"26 08 2025";238.97;;"?";"0";
+18651;"TecLine";;"29012025";"17/09/2025";"Asus";"ZenBook";"SN561124";"Sim";"No";"No";"Erro de disco";"Troca de bateria";"2025/06/08";161.98;"Pendente";"n";"s";"Pré-OK até 100"
+18652;"PCmais";;"20-10-2025";"14 06 2025";"Samsung";"BOOK2";"SN585188";"0";"1";;"Aquecimento excessivo";"Troca de SSD";"01 09 2025";86.72;"Pendente";"No";"Sim";"REP 00038"
+18653;"Trilogica";;"06072025";"2025/05/25";"lenovo";"ZENBOOK";"SN559022";"No";"1";"1";"Dobradiça solta";"Troca de teclado";"29072025";218.72;"Pendente";"?";"?";"REP 00038"
+18654;"Nsistemas";;"2025/06/08";"08 03 2025";"Dell";"XPS";"SN449555";"Sim";"0";"?";"Não liga";"Substituir ecrã";"13022025";188.73;"Não";"N";"?";
+18655;"DigitalPT";;"20042025";"06-09-2025";"Apple";"MacBookPro";"SN633188";"n";"S";"n";"Erro de disco";"Troca de teclado";"26-04-2025";87.74;"Sim";"Sim";"1";"Verificar backup"
+18656;"MegaPC";;"2025/03/26";"2025/01/23";"Toshiba";"Satellite";"SN726258";"Yes";"N";"N";"Não liga";"Reballing GPU";"06-07-2025";291.4;"Sim";;"No";"Cliente solicita orçamento detalhado"
+18657;"CompLocal";;"15 09 2025";"03-08-2025";"Lenovo";"Legion";"SN811256";"0";"No";"No";"Erro de disco";"Reinstalar SO";"13 04 2025";83.6;"Sim";"S";"?";
+18658;"BitClinic";;"2025/03/17";"16-02-2025";"Samsung";"GalaxyBook";"SN398910";"Sim";"N";"s";"Ventoinha ruidosa";"Troca de carregador";"19082025";281.62;"?";"S";"Yes";"Verificar backup"
+18659;"SmartFix";;"20012025";"30-08-2025";"HP";"Pavilion";"SN203896";;"?";"n";"Não liga";"Troca de teclado";"2025/08/29";202.84;"S";"S";"s";"Cliente solicita orçamento detalhado"
+18660;"DigitalPT";;"2025/05/03";"23/08/2025";"MSI";"MODERN";"SN913875";"s";"Não";"s";"Ecrã partido";"Atualização BIOS";"2025/02/26";198.18;"Pendente";"?";"1";"Verificar backup"
+18661;"PCmais";;"04/07/2025";"27 09 2025";"Asus";"ZenBook";"SN698384";"Yes";"N";"?";"Ecrã partido";"Troca de carregador";"17 09 2025";187.54;"?";"No";"S";
+18662;"MegaPC";;"20-06-2025";"23012025";"Apple";"MACBOOK PRO";"SN352838";;"?";"?";"Ecrã partido";"Reballing GPU";"07102025";252.38;"N";"?";"No";
+18663;"ReparaJá";;"08 06 2025";"23 07 2025";"Huawei";"MateBook";"SN407696";"Não";"S";"Não";"Aquecimento excessivo";"Substituir ecrã";"31082025";58.16;"Aprovado";"s";"n";"Pré-OK até 100"
+18664;"MegaPC";;"12092025";"23092025";"msi";"Stealth";"SN879414";"No";"Yes";"n";"Não liga";"Troca de SSD";"2025/02/12";68.73;"N";"1";"s";"REP 00038"
+18665;"CompLocal";;"22012025";"11082025";"Toshiba";"Portege";"SN546815";"N";;"No";"Porta USB danificada";"Troca de SSD";"30/01/2025";216.8;"?";"n";"1";
+18666;"PCmais";;"16 07 2025";"17 01 2025";"huawei";"MateBook";"SN232361";"Sim";"Não";"?";"Porta USB danificada";"Substituir ecrã";"2025/03/20";286.21;"Não";"No";"Sim";"Verificar backup"
+18667;"Nsistemas";;"15/10/2025";"15052025";"lenovo";"IdeaPad";"SN127172";;"N";"No";"Bateria viciada";"Reinstalar SO";"17-08-2025";298.09;"Sim";;"No";"Cliente solicita orçamento detalhado"
+18668;"DataHelp";;"09 10 2025";"29052025";"Huawei";"MateBook";"SN949884";"?";"n";"?";"Porta USB danificada";"Substituir peça";"22-03-2025";247.42;"Aprovado";"Sim";"Não";"Cliente solicita orçamento detalhado"
+18669;"PCmais";;"2025/06/08";"03 09 2025";"asus";"TUF Gaming";"SN942700";"1";"N";"0";"Ecrã partido";"Substituir peça";"2025/07/30";254.83;"S";"N";"n";
+18670;"Sisopção";;"05 03 2025";"20032025";"Samsung";"Book3";"SN716338";"N";"N";"Yes";"Bateria viciada";"Atualização BIOS";"26-03-2025";129.67;"Aprovado";"n";"1";"REP 00038"
+18671;"DigitalPT";;"28 03 2025";"25-10-2025";"dell";"XPS";"SN755383";"s";"0";"1";"Ecrã partido";"Troca de carregador";"29 03 2025";229.16;"Não";"0";"S";"Pré-OK até 100"
+18672;"Nsistemas";;"29052025";"05-09-2025";"Lenovo";"ThinkBook";"SN536822";"0";"?";"S";"Ventoinha ruidosa";"Troca de carregador";"27072025";162.39;"Pendente";"N";"No";
+18673;"MegaPC";;"24022025";"2025/05/04";"Asus";"Zenbook";"SN462147";"Yes";"N";"n";"Bateria viciada";"Troca de carregador";"04032025";161.4;"N";"Sim";"S";"REP 00038"
+18674;"BitClinic";;"13 09 2025";"2025/08/28";"Acer";"MateBook";"SN443341";"0";;"n";"Não carrega";"Troca de teclado";"2025/06/07";54.79;"?";"1";"No";"Cliente solicita orçamento detalhado"
+18675;"CompLocal";;"09-08-2025";"16052025";"Toshiba";"Portege";"SN805188";"No";"s";"1";"Aquecimento excessivo";"Substituir peça";"26072025";60.31;"Pendente";"0";"1";"Cliente solicita orçamento detalhado"
+18676;"CompLocal";;"2025/02/19";"11072025";"Samsung";"BOOK2";"SN965401";"0";"?";"0";"Ecrã partido";"Troca de teclado";"13102025";237.74;"Aprovado";"0";"1";
+18677;"MegaPC";;"13-06-2025";"21 07 2025";"Huawei";"X PRO";"SN579187";"N";"0";"1";"Não liga";"Substituir ecrã";"03 06 2025";133.09;;;"0";"REP 00038"
+18678;"RM Informatica";;"31082025";"24 10 2025";"MSI";"Thin";"SN422623";;;"?";"Aquecimento excessivo";"Reballing GPU";"27/04/2025";194.88;"N";"1";"?";
+18679;"TecLine";;"2025/06/10";"2025/03/19";"Lenovo";"IdeaPad";"SN700383";;"Sim";"Não";"Aquecimento excessivo";"Troca de SSD";"2025/04/15";174.45;;;;"Pré-OK até 100"
+18680;"TecLine";;"07102025";"16 05 2025";"Huawei";"X Pro";"SN495129";"n";"N";"No";"Bateria viciada";"Substituir ecrã";"05-09-2025";288.33;"Sim";"1";"s";"Cliente solicita orçamento detalhado"
+18681;"ReparaJá";;"21052025";"04 03 2025";"lenovo";"Zenbook";"SN839233";"No";"n";"No";"Porta USB danificada";"Troca de carregador";"2025/10/06";272.94;"?";"n";"N";"REP 00038"
+18682;"DataHelp";;"19 05 2025";"20-05-2025";"Huawei";"X Pro";"SN368900";;"No";"Não";"Não carrega";"Troca de carregador";"25 02 2025";234.22;"Aprovado";"Não";"S";
+18683;"RM Informatica";;"09-10-2025";"2025/07/28";"msi";"Raider";"SN852204";"No";"Sim";"?";"Não liga";"Atualização BIOS";"02-09-2025";237.98;"Sim";"n";"s";
+18684;"SmartFix";;"2025/07/23";"06042025";"Samsung";"Book3";"SN858243";"S";"N";"Yes";"Não liga";"Atualização BIOS";"20/01/2025";123.6;"S";"n";"s";
+18685;"Sisopção";;"12-05-2025";"08012025";"Samsung";"Book2";"SN386090";"Não";"Sim";"n";"Não liga";"Troca de SSD";"01 06 2025";217.6;"Aprovado";"N";"0";
+18686;"RM Informatica";;"2025/05/14";"2025/05/01";"MSI";"MODERN";"SN293757";"N";"No";"n";"Não carrega";"Atualização BIOS";"17052025";124.49;"Pendente";"s";"?";"REP 00038"
+18687;"Nsistemas";;"08 07 2025";"24-04-2025";"Acer";"Spin";"SN819400";"1";;"s";"Ecrã partido";"Troca de bateria";"2025/03/10";87.3;"Não";"Yes";;"Verificar backup"
+18688;"BitClinic";;"05/07/2025";"16/10/2025";"lenovo";"ThinkPad";"SN813390";"0";"Sim";"1";"Ventoinha ruidosa";"Troca de carregador";"01 02 2025";274.72;"Aprovado";"0";"1";"Cliente solicita orçamento detalhado"
+18689;"TecLine";;"21-08-2025";"2025/09/20";"lenovo";"Zenbook";"SN711474";"No";"Sim";"1";"Ventoinha ruidosa";"Atualização BIOS";"22 08 2025";63.43;;"?";"s";
+18690;"SmartFix";;"31/01/2025";"30/08/2025";"Toshiba";"Satellite";"SN147489";"Yes";"n";;"Ecrã partido";"Troca de carregador";"2025/05/27";94;"N";"?";;
+18691;"CompLocal";;"02-03-2025";"2025/10/03";"MSI";"Stealth";"SN184148";"?";"?";"1";"Não liga";"Substituir ecrã";"28-09-2025";230.96;"Aprovado";"S";"S";"REP 00038"
+18692;"InfoMaster";;"2025/01/17";"09-01-2025";"Lenovo";"THINKPAD";"SN583000";"n";"N";"s";"Não carrega";"Substituir peça";"16/04/2025";74.22;"Pendente";"No";"0";
+18693;"InfoMaster";;"30 04 2025";"13 06 2025";"Huawei";"MateBook";"SN665979";"Não";"S";"N";"Bateria viciada";"Troca de bateria";"14-06-2025";124.44;"N";"?";"1";"Cliente solicita orçamento detalhado"
+18694;"PCmais";;"15 07 2025";"2025/06/13";"Acer";"IdeaPad";"SN811721";"Yes";"1";"No";"Aquecimento excessivo";"Substituir ecrã";"29-07-2025";123.97;"N";"1";"No";"Cliente solicita orçamento detalhado"
+18695;"FixLab";;"18-07-2025";"11-05-2025";"Huawei";"MATEBOOK";"SN689704";"Yes";"Yes";"1";"Bateria viciada";"Troca de teclado";"19/06/2025";279.56;"Não";"Sim";"1";
+18696;"PCmais";;"03-09-2025";"20062025";"Toshiba";"Satellite";"SN176319";"Não";"0";;"Bateria viciada";"Limpeza interna";"08-01-2025";283.29;"S";;"No";"Cliente solicita orçamento detalhado"
+18697;"SmartFix";;"07062025";"04 07 2025";"Samsung";"BOOK2";"SN913185";"s";"Yes";"No";"Bateria viciada";"Substituir ecrã";"2025/09/12";73.65;;"n";"Não";"REP 00038"
+18698;"ReparaJá";;"20-03-2025";"18-06-2025";"Acer";"Aspire";"SN373441";"1";"0";"0";"Teclado avariado";"Troca de bateria";"14 07 2025";257.34;;"1";"?";
+18699;"ReparaJá";;"08-09-2025";"05/10/2025";"Huawei";"D15";"SN276405";;"n";"N";"Não liga";"Troca de carregador";"26/09/2025";258.77;"S";"?";"S";"Pré-OK até 100"
+18700;"ReparaJá";;"2025/09/05";"09/01/2025";"Acer";"Aspire";"SN329344";"1";"No";"n";"Aquecimento excessivo";"Reballing GPU";"30 09 2025";151.83;"Pendente";"1";;"REP 00038"
+18701;"ReparaJá";;"27092025";"01072025";"MSI";"Prestige";"SN212214";"Sim";"1";"N";"Não carrega";"Limpeza interna";"23/07/2025";142.26;"?";"No";"0";"Cliente solicita orçamento detalhado"
+18702;"BitClinic";;"29/01/2025";"29/03/2025";"Apple";"MacBook Air";"SN198042";"Yes";"Yes";"Yes";"Bateria viciada";"Troca de SSD";"2025/09/13";210.23;"Não";"0";"Sim";"Verificar backup"
+18703;"ReparaJá";;"16/10/2025";"02042025";"Toshiba";"Tecra";"SN384263";"S";"Sim";"?";"Erro de disco";"Troca de carregador";"09-01-2025";195.76;"?";"Sim";"s";"Cliente solicita orçamento detalhado"
+18704;"TecLine";;"27/06/2025";"2025/02/20";"Samsung";"Book2";"SN502491";;"N";;"Ecrã partido";"Troca de carregador";"29/04/2025";134.15;"?";"n";"S";
+18705;"MegaPC";;"01-06-2025";"07/02/2025";"Samsung";"BOOK2";"SN552825";"N";"?";"0";"Teclado avariado";"Substituir peça";"18-05-2025";144;"N";;"Yes";"REP 00038"
+18706;"CompLocal";;"13 10 2025";"2025/09/20";"Asus";"ROG STRIX";"SN207197";"N";"Sim";"N";"Teclado avariado";"Troca de SSD";"22/02/2025";71.4;"S";"0";"0";"REP 00038"
+18707;"FixLab";;"13032025";"04062025";"Apple";"MACBOOK AIR";"SN699743";"1";"N";"?";"Teclado avariado";"Troca de teclado";"10-09-2025";64.82;"?";"s";"Yes";"REP 00038"
+18708;"SmartFix";;"2025/01/04";"20 06 2025";"Huawei";"X Pro";"SN746624";"Não";"No";"Sim";"Não liga";"Troca de bateria";"14072025";159.06;"?";"?";"0";"Cliente solicita orçamento detalhado"
+18709;"CompLocal";;"05052025";"12072025";"Asus";"ZenBook";"SN517584";"n";"s";;"Ventoinha ruidosa";"Reballing GPU";"21072025";77.47;"Aprovado";"0";"1";"Cliente solicita orçamento detalhado"
+18710;"CompLocal";;"13032025";"04052025";"Lenovo";"Yoga";"SN936433";"s";;"Sim";"Teclado avariado";"Troca de SSD";"2025/03/20";246.27;"S";"No";"0";
+18711;"BitClinic";;"25-02-2025";"01-07-2025";"msi";"Thin";"SN138551";"n";;"1";"Dobradiça solta";"Substituir peça";"23 01 2025";294.9;"?";"n";"Yes";"Pré-OK até 100"
+18712;"DigitalPT";;"26 08 2025";"14-09-2025";"Samsung";"Book3";"SN821068";"0";"Não";"No";"Porta USB danificada";"Reinstalar SO";"26/06/2025";169.69;"Sim";"Yes";"Sim";"Pré-OK até 100"
+18713;"MegaPC";;"20082025";"04022025";"Huawei";"MateBook";"SN646428";"No";"n";"No";"Ecrã partido";"Troca de SSD";"23/01/2025";54.65;"Não";"?";"Sim";
+18714;"DigitalPT";;"27-07-2025";"2025/04/06";"Acer";"Predator";"SN267914";"n";"1";"Yes";"Ventoinha ruidosa";"Limpeza interna";"22/07/2025";233.35;"Aprovado";"No";"0";
+18715;"FixLab";;"23/08/2025";"2025/05/15";"Apple";"MacBook Air";"SN938338";"1";"N";"n";"Porta USB danificada";"Limpeza interna";"28092025";198.24;"?";"0";"Sim";"REP 00038"
+18716;"TecLine";;"01-03-2025";"11-07-2025";"dell";"Inspiron";"SN804758";"N";"n";"Sim";"Não carrega";"Troca de bateria";"2025/09/19";153.56;"N";"0";"Yes";
+18717;"TecLine";;"19 08 2025";"28012025";"Acer";"Predator";"SN274971";"No";"s";"N";"Não liga";"Substituir ecrã";"2025/01/05";83.13;"?";"1";"1";
+18718;"BitClinic";;"17012025";"26 04 2025";"Huawei";"D15";"SN275377";"Sim";"0";"S";"Não carrega";"Troca de bateria";"28-05-2025";244.19;;"1";"1";"Pré-OK até 100"
+18719;"MegaPC";;"22-02-2025";"02/06/2025";"Samsung";"Galaxy Book";"SN896922";;"No";"1";"Não carrega";"Reinstalar SO";"19082025";136.14;"S";"No";"Sim";"Cliente solicita orçamento detalhado"
+18720;"BitClinic";;"31 01 2025";"29 06 2025";"Toshiba";"Portege";"SN548965";"N";"0";"N";"Não carrega";"Limpeza interna";"24 05 2025";183.69;"Não";;"s";"REP 00038"
+18721;"DataHelp";;"08-05-2025";"14-06-2025";"Apple";"MacBook Air";"SN886530";"Yes";"S";"s";"Não liga";"Troca de teclado";"2025/07/21";84.54;"Sim";"?";"Yes";
+18722;"RM Informatica";;"17 06 2025";"02/01/2025";"MSI";"Thin";"SN886224";"s";;"n";"Ventoinha ruidosa";"Troca de SSD";"23082025";261.53;"?";"Não";"Yes";"Cliente solicita orçamento detalhado"
+18723;"DigitalPT";;"2025/02/20";"09/01/2025";"Toshiba";"Satellite";"SN693643";"No";"n";"?";"Aquecimento excessivo";"Atualização BIOS";"2025/03/22";163.13;"?";"Não";;"Cliente solicita orçamento detalhado"
+18724;"DataHelp";;"2025/01/27";"06-06-2025";"dell";"Inspiron";"SN786385";"n";"s";"Sim";"Porta USB danificada";"Troca de teclado";"08/08/2025";224.92;"Pendente";"Não";"No";"Pré-OK até 100"
+18725;"Trilogica";;"06-02-2025";"16/07/2025";"HP";"ThinkPad";"SN460263";"Sim";"Yes";;"Não liga";"Troca de SSD";"22/02/2025";127.34;"Sim";"N";"Yes";"Cliente solicita orçamento detalhado"
+18726;"PCmais";;"30 07 2025";"15-08-2025";"HP";"Victus";"SN781595";"N";"No";"n";"Não carrega";"Troca de teclado";"14/02/2025";84;"S";"0";;
+18727;"SmartFix";;"14012025";"16 04 2025";"Dell";"INSPIRON";"SN360221";"1";"0";"0";"Dobradiça solta";"Troca de bateria";"18-09-2025";235.96;"Sim";"?";"S";"Cliente solicita orçamento detalhado"
+18728;"PCmais";;"07 07 2025";"2025/03/30";"Apple";"MacBook Air";"SN478638";"n";"N";"Yes";"Dobradiça solta";"Reinstalar SO";"07/02/2025";195.84;"Pendente";"s";"Não";"Pré-OK até 100"
+18729;"Nsistemas";;"20032025";"12022025";"Samsung";"Book2";"SN544150";;"Yes";"Sim";"Bateria viciada";"Troca de carregador";"10 02 2025";279.23;"N";"1";"n";
+18730;"TecLine";;"2025/02/14";"2025/03/01";"apple";"MACBOOK PRO";"SN832614";"Yes";;"Não";"Aquecimento excessivo";"Limpeza interna";"29012025";215.52;"N";"Sim";"S";
+18731;"MegaPC";;"18/05/2025";"16012025";"samsung";"Book3";"SN921021";;"s";"N";"Porta USB danificada";"Troca de teclado";"08082025";179.96;"Sim";;"0";
+18732;"CompLocal";;"27 04 2025";"02/01/2025";"Toshiba";"Satellite";"SN485548";"N";"s";"Sim";"Dobradiça solta";"Substituir peça";"07-01-2025";60.5;"Não";"Yes";"N";"Cliente solicita orçamento detalhado"
+18733;"DataHelp";;"09 02 2025";"10/07/2025";"MSI";"Prestige";"SN437433";"Não";"Yes";;"Porta USB danificada";"Troca de bateria";"15/09/2025";93.84;"Pendente";"Yes";"Sim";
+18734;"RM Informatica";;"2025/05/05";"08 07 2025";"samsung";"Book2";"SN108356";"n";"Não";"s";"Dobradiça solta";"Troca de bateria";"10-09-2025";232.12;"Aprovado";"N";"S";
+18735;"ReparaJá";;"16 04 2025";"2025/05/02";"hp";"Pavilion";"SN101533";"?";"Yes";;"Erro de disco";"Substituir peça";"09/09/2025";292.14;"N";;"s";"Pré-OK até 100"
+18736;"InfoMaster";;"21/07/2025";"18/10/2025";"Asus";"TUF Gaming";"SN884229";"Sim";"0";"Sim";"Bateria viciada";"Troca de teclado";"11-08-2025";108.19;"Sim";"n";"Yes";
+18737;"SmartFix";;"2025/08/19";"2025/06/10";"Apple";"MACBOOK AIR";"SN242723";"0";"Sim";"N";"Ecrã partido";"Troca de teclado";"03 03 2025";138.57;"Aprovado";"No";"s";
+18738;"TecLine";;"22 07 2025";"26012025";"Dell";"INSPIRON";"SN325465";"n";"N";"Sim";"Não carrega";"Substituir ecrã";"14-05-2025";56.77;"?";"No";"1";
+18739;"FixLab";;"10/07/2025";"26 10 2025";"Acer";"ASPIRE";"SN112537";"S";"Não";"N";"Não carrega";"Reinstalar SO";"13/05/2025";54.45;"S";"Não";"?";
+18740;"FixLab";;"2025/07/22";"2025/01/16";"Asus";"VIVOBOOK";"SN144770";"No";"S";"N";"Dobradiça solta";"Reinstalar SO";"07-08-2025";137.49;"N";"s";"s";
+18741;"SmartFix";;"16-07-2025";"03-08-2025";"Dell";"Vostro";"SN532005";"1";"No";"S";"Ecrã partido";"Troca de bateria";"27-09-2025";206.69;"Pendente";"Yes";;"REP 00038"
+18742;"PCmais";;"23/04/2025";"24/05/2025";"Samsung";"Book2";"SN507247";"s";"N";"S";"Porta USB danificada";"Reballing GPU";"30 08 2025";138.36;"Aprovado";"N";"Sim";"Cliente solicita orçamento detalhado"
+18743;"DataHelp";;"12062025";"15012025";"hp";"ELITEBOOK";"SN703656";"Yes";"n";"N";"Não liga";"Limpeza interna";"18 10 2025";84.53;"Aprovado";"No";"1";"REP 00038"
+18744;"PCmais";;"08032025";"01042025";"Lenovo";"IdeaPad";"SN652021";"No";"S";"n";"Dobradiça solta";"Limpeza interna";"31/01/2025";85.93;"N";"Sim";"1";"REP 00038"
+18745;"InfoMaster";;"07092025";"31 03 2025";"Toshiba";"SATELLITE";"SN452909";"s";"n";"N";"Não liga";"Reinstalar SO";"02-07-2025";215.38;"N";"Yes";"s";
+18746;"ReparaJá";;"24 04 2025";"2025/02/23";"Toshiba";"Tecra";"SN992083";"0";"S";"N";"Dobradiça solta";"Substituir ecrã";"14032025";235.34;"Aprovado";"n";"n";"Cliente solicita orçamento detalhado"
+18747;"TecLine";;"12/05/2025";"01/01/2025";"Asus";"TUF Gaming";"SN111949";"s";"Não";"Não";"Ecrã partido";"Substituir ecrã";"2025/07/17";232.15;"N";"Yes";"No";
+18748;"FixLab";;"18012025";"11012025";"toshiba";"Portege";"SN895075";"?";"Não";"N";"Ventoinha ruidosa";"Substituir peça";"14/05/2025";67.55;"N";"Yes";"N";
+18749;"MegaPC";;"11-08-2025";"28/01/2025";"Toshiba";"Portege";"SN606186";;"S";"Yes";"Não liga";"Reballing GPU";"19-06-2025";292.6;"?";;"1";
+18750;"Nsistemas";;"28012025";"2025/01/02";"Lenovo";"IdeaPad";"SN152046";"Yes";"0";"1";"Ventoinha ruidosa";"Troca de teclado";"14022025";254.97;;"Não";"Sim";"Pré-OK até 100"
+18751;"CompLocal";;"2025/10/06";"05042025";"Apple";"MacBook Pro";"SN923002";"Yes";"No";"No";"Erro de disco";"Substituir peça";"15072025";95.65;"Pendente";"s";"No";
+18752;"Sisopção";;"11/10/2025";"18 07 2025";"Apple";"MacBook Air";"SN800596";"n";"1";"Yes";"Dobradiça solta";"Limpeza interna";"03 08 2025";220.77;;"0";"Não";
+18753;"Trilogica";;"18-08-2025";"27-03-2025";"Samsung";"Book3";"SN641922";"0";"?";"0";"Não liga";"Substituir peça";"09-04-2025";59.67;"S";"?";"Yes";"Cliente solicita orçamento detalhado"
+18754;"Nsistemas";;"10102025";"22 05 2025";"asus";"Zenbook";"SN946561";"Sim";"Sim";"Yes";"Bateria viciada";"Reinstalar SO";"23/08/2025";245.64;"?";"Sim";"Yes";"Cliente solicita orçamento detalhado"
+18755;"RM Informatica";;"2025/07/16";"20 10 2025";"Apple";"MacBook Air";"SN923914";"s";"1";"n";"Teclado avariado";"Troca de bateria";"31/08/2025";92.05;"?";"N";"0";"Verificar backup"
+18756;"DataHelp";;"11012025";"05062025";"Asus";"Zenbook";"SN349119";"S";;"No";"Erro de disco";"Substituir ecrã";"2025/05/24";263.56;"S";"Não";"N";"REP 00038"
+18757;"Nsistemas";;"06 09 2025";"11/07/2025";"msi";"THIN";"SN776913";"Sim";"Não";"No";"Não carrega";"Reinstalar SO";"21-09-2025";65.4;"?";"N";"1";"Verificar backup"
+18758;"BitClinic";;"2025/07/08";"2025/09/16";"HP";"EliteBook";"SN134677";"No";"S";"n";"Não carrega";"Troca de bateria";"05/03/2025";109.48;;"0";"No";"Cliente solicita orçamento detalhado"
+18759;"MegaPC";;"17/07/2025";"25 03 2025";"Acer";"MateBook";"SN371224";;;"Sim";"Erro de disco";"Atualização BIOS";"20-04-2025";210.84;"Aprovado";"s";"?";
+18760;"TecLine";;"10 05 2025";"06062025";"HP";"OMEN";"SN238741";"?";"N";"0";"Aquecimento excessivo";"Limpeza interna";"2025/08/05";261.9;;"s";"Não";
+18761;"PCmais";;"25052025";"2025/02/25";"Apple";"MacBook Air";"SN636361";"?";"n";"1";"Dobradiça solta";"Reballing GPU";"02022025";296.09;"Não";"s";"s";
+18762;"Sisopção";;"2025/01/14";"01062025";"Samsung";"Galaxy Book";"SN159532";"0";"Yes";"?";"Porta USB danificada";"Troca de teclado";"2025/08/03";146.07;"Pendente";"0";;"Verificar backup"
+18763;"TecLine";;"29 03 2025";"03042025";"Samsung";"Book3";"SN923024";"No";"?";"n";"Bateria viciada";"Troca de bateria";"2025/02/19";80.99;"Sim";;"1";"Cliente solicita orçamento detalhado"
+18764;"SmartFix";;"27102025";"26/08/2025";"asus";"ZenBook";"SN880360";"s";"Yes";"n";"Porta USB danificada";"Troca de bateria";"29/08/2025";265.6;"S";"No";"Não";"Verificar backup"
+18765;"InfoMaster";;"15032025";"03/04/2025";"hp";"EliteBook";"SN244037";"Não";"n";"Yes";"Dobradiça solta";"Troca de SSD";"07092025";206.76;"N";"n";"?";"Pré-OK até 100"
+18766;"Sisopção";;"2025/07/26";"2025/09/02";"toshiba";"Satellite";"SN613358";"Sim";"N";"0";"Teclado avariado";"Reinstalar SO";"03/01/2025";182.45;"Não";"S";"n";"Verificar backup"
+18767;"SmartFix";;"06-06-2025";"03/02/2025";"Lenovo";"Zenbook";"SN461076";"s";"N";"Sim";"Teclado avariado";"Troca de carregador";"02062025";162.98;"Não";"Yes";"?";"Cliente solicita orçamento detalhado"
+18768;"SmartFix";;"12 01 2025";"16-09-2025";"Acer";"MateBook";"SN522986";"S";"Não";"Não";"Não liga";"Limpeza interna";"05032025";226.78;"Pendente";"Yes";"?";"REP 00038"
+18769;"Trilogica";;"05 03 2025";"2025/05/10";"apple";"MacBook Air";"SN150578";;"Sim";"Yes";"Ventoinha ruidosa";"Reinstalar SO";"20-03-2025";222.8;"Pendente";"s";"Yes";
+18770;"ReparaJá";;"25/05/2025";"2025/02/24";"Acer";"Spin";"SN971002";"Sim";"1";;"Dobradiça solta";"Substituir peça";"12 04 2025";98.94;"Sim";"1";"Não";"REP 00038"
+18771;"CompLocal";;"26 02 2025";"10-09-2025";"Lenovo";"Zenbook";"SN604012";"n";"Não";"S";"Aquecimento excessivo";"Substituir peça";"16 02 2025";67.76;"S";"s";"?";"Cliente solicita orçamento detalhado"
+18772;"Trilogica";;"01/03/2025";"24/01/2025";"apple";"MacBook Air";"SN141360";"s";"n";"?";"Porta USB danificada";"Reinstalar SO";"12-03-2025";131.17;;"0";"s";
+18773;"InfoMaster";;"27-02-2025";"31-01-2025";"msi";"Stealth";"SN385037";"Yes";;"No";"Teclado avariado";"Troca de teclado";"2025/02/23";276.81;;"0";"?";
+18774;"Trilogica";;"14052025";"07 01 2025";"Acer";"SPIN";"SN611833";"Sim";"Yes";"No";"Aquecimento excessivo";"Substituir peça";"23 10 2025";105;"Não";"1";"1";
+18775;"SmartFix";;"28/01/2025";"22 03 2025";"Huawei";"D15";"SN795951";"?";"?";"Yes";"Não liga";"Troca de carregador";"2025/08/29";266.35;"S";"No";"n";"Cliente solicita orçamento detalhado"
+18776;"DigitalPT";;"18/08/2025";"2025/09/13";"msi";"Stealth";"SN956794";"Não";"Sim";"No";"Ventoinha ruidosa";"Reballing GPU";"11/06/2025";294.17;"Pendente";"Sim";"Yes";
+18777;"FixLab";;"24062025";"28-01-2025";"Toshiba";"PORTEGE";"SN768507";"s";"1";"1";"Não carrega";"Troca de SSD";"21082025";189.04;;;"?";"REP 00038"
+18778;"SmartFix";;"24/02/2025";"2025/03/26";"HP";"Pavilion";"SN472390";"?";"s";"1";"Bateria viciada";"Substituir ecrã";"2025/03/13";75.74;"Aprovado";"Não";"Sim";
+18779;"MegaPC";;"23 08 2025";"16-09-2025";"Apple";"MacBook Pro";"SN148759";"?";"?";"0";"Ecrã partido";"Troca de SSD";"13/09/2025";181.59;"Pendente";"1";"Yes";"Verificar backup"
+18780;"Sisopção";;"14 06 2025";"2025/07/16";"toshiba";"Satellite";"SN865979";"N";"Sim";"Yes";"Dobradiça solta";"Reballing GPU";"08052025";148.47;"Não";"s";"No";"Cliente solicita orçamento detalhado"
+18781;"DigitalPT";;"18 04 2025";"29052025";"Dell";"Latitude";"SN846454";;"1";"?";"Não carrega";"Limpeza interna";"09-03-2025";174.97;"Não";;"Sim";"REP 00038"
+18782;"ReparaJá";;"15-07-2025";"28/01/2025";"msi";"THIN";"SN399817";"Yes";"S";"1";"Ecrã partido";"Atualização BIOS";"13042025";236.55;"N";"s";"?";"REP 00038"
