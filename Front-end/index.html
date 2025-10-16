@@ -1,0 +1,249 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Gestão de Reparações</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔧 Sistema de Gestão de Reparações</h1>
+            <p>Gestão completa de reparações de portáteis</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" onclick="showTab('dashboard')">Dashboard</button>
+            <button class="tab" onclick="showTab('repairs')">Reparações</button>
+            <button class="tab" onclick="showTab('add')">Nova Reparação</button>
+            <button class="tab" onclick="showTab('reports')">Relatórios</button>
+        </div>
+
+        <div class="content">
+            <!-- Dashboard Tab -->
+            <div id="dashboard" class="tab-content active">
+                <h2 style="margin-bottom: 20px;">Dashboard</h2>
+                <div class="stats-grid" id="statsGrid"></div>
+                
+                <h3 style="margin-top: 30px; margin-bottom: 15px;">Reparações Recentes</h3>
+                <div class="table-container">
+                    <table id="recentRepairs">
+                        <thead>
+                            <tr>
+                                <th>Rep</th>
+                                <th>Cliente</th>
+                                <th>Marca</th>
+                                <th>Modelo</th>
+                                <th>Avaria</th>
+                                <th>Valor</th>
+                                <th>Estado</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Repairs Tab -->
+            <div id="repairs" class="tab-content">
+                <h2 style="margin-bottom: 20px;">Todas as Reparações</h2>
+                <div class="search-filter">
+                    <input type="text" id="searchInput" placeholder="Pesquisar por cliente, marca, modelo...">
+                    <select id="filterStatus">
+                        <option value="">Todos os estados</option>
+                        <option value="aprovado">Aprovado</option>
+                        <option value="pronto">Pronto</option>
+                        <option value="enviado">Enviado</option>
+                        <option value="pendente">Pendente</option>
+                    </select>
+                    <button class="btn btn-primary" onclick="applyFilters()">Filtrar</button>
+                </div>
+                
+                <div class="table-container">
+                    <table id="allRepairs">
+                        <thead>
+                            <tr>
+                                <th>Rep</th>
+                                <th>Cliente</th>
+                                <th>Data Entrada</th>
+                                <th>Marca/Modelo</th>
+                                <th>Avaria</th>
+                                <th>Diagnóstico</th>
+                                <th>Valor</th>
+                                <th>Estado</th>
+                                <th>Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Add Repair Tab -->
+            <div id="add" class="tab-content">
+                <h2 style="margin-bottom: 20px;">Nova Reparação</h2>
+                
+                <!-- CSV Upload Section -->
+                <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+                    <h3 style="margin-bottom: 15px;">Importar CSV do KNIME</h3>
+                    <input type="file" id="csvFileInput" accept=".csv" style="margin-bottom: 10px;">
+                    <button class="btn btn-primary" onclick="loadCSV()">Carregar CSV</button>
+                    <p style="margin-top: 10px; color: #6c757d; font-size: 0.9em;">
+                        Selecione o ficheiro CSV exportado do KNIME
+                    </p>
+                </div>
+
+                <h3 style="margin-bottom: 15px;">Ou adicionar manualmente:</h3>
+                <form id="newRepairForm" onsubmit="addRepair(event)">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Cliente</label>
+                            <input type="text" name="cliente" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Contacto</label>
+                            <input type="text" name="contacto">
+                        </div>
+                        <div class="form-group">
+                            <label>Data Entrada</label>
+                            <input type="date" name="dataEntrada" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Marca</label>
+                            <input type="text" name="marca" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Modelo</label>
+                            <input type="text" name="modelo" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Nº Série</label>
+                            <input type="text" name="serial">
+                        </div>
+                    </div>
+
+                    <h3 style="margin: 20px 0 15px 0;">Acessórios</h3>
+                    <div class="form-grid">
+                        <div class="checkbox-group">
+                            <input type="checkbox" name="carregador" id="carregador">
+                            <label for="carregador">Carregador</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" name="bateria" id="bateria">
+                            <label for="bateria">Bateria</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" name="caboAC" id="caboAC">
+                            <label for="caboAC">Cabo A/C</label>
+                        </div>
+                    </div>
+
+                    <h3 style="margin: 20px 0 15px 0;">Avaria e Diagnóstico</h3>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Avaria</label>
+                            <textarea name="avaria" rows="3" required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label>Diagnóstico</label>
+                            <textarea name="diagnostico" rows="3"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Valor (€)</label>
+                            <input type="number" name="valor" step="0.01" min="0">
+                        </div>
+                        <div class="form-group">
+                            <label>Observações</label>
+                            <textarea name="observacoes" rows="3"></textarea>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary" style="margin-top: 20px;">Adicionar Reparação</button>
+                </form>
+            </div>
+
+            <!-- Reports Tab -->
+            <div id="reports" class="tab-content">
+                <h2 style="margin-bottom: 20px;">Relatórios</h2>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3 id="totalRevenue">€0</h3>
+                        <p>Receita Total</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3 id="avgRepairValue">€0</h3>
+                        <p>Valor Médio</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3 id="completionRate">0%</h3>
+                        <p>Taxa de Conclusão</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3 id="approvalRate">0%</h3>
+                        <p>Taxa de Aprovação</p>
+                    </div>
+                </div>
+
+                <h3 style="margin-top: 30px; margin-bottom: 15px;">Por Cliente</h3>
+                <div class="table-container">
+                    <table id="clientReport">
+                        <thead>
+                            <tr>
+                                <th>Cliente</th>
+                                <th>Nº Reparações</th>
+                                <th>Valor Total</th>
+                                <th>Aprovadas</th>
+                                <th>Concluídas</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+
+                <button class="btn btn-primary" onclick="exportToCSV()" style="margin-top: 20px;">
+                    Exportar para CSV
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Edit Modal -->
+    <div id="editModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Editar Reparação</h2>
+                <span class="close" onclick="closeModal()">&times;</span>
+            </div>
+            <form id="editForm" onsubmit="saveEdit(event)">
+                <div class="form-grid">
+                    <div class="checkbox-group">
+                        <input type="checkbox" name="aprovado" id="editAprovado">
+                        <label for="editAprovado">Aprovado</label>
+                    </div>
+                    <div class="checkbox-group">
+                        <input type="checkbox" name="pronto" id="editPronto">
+                        <label for="editPronto">Pronto</label>
+                    </div>
+                    <div class="checkbox-group">
+                        <input type="checkbox" name="enviado" id="editEnviado">
+                        <label for="editEnviado">Enviado</label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Data Recolha</label>
+                    <input type="date" name="dataRecolha">
+                </div>
+                <button type="submit" class="btn btn-primary" style="margin-top: 20px;">Guardar</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

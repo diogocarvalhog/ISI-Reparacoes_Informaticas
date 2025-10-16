@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nortitec>
+    <Repair xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <item>
+            <Rep>18640</Rep>
+            <Cliente>FixLab</Cliente>
+            <Contacto>Desconhecido</Contacto>
+            <DataEntrada ns:originalKey="Data Entrada">23/01/2025</DataEntrada>
+            <DataRecolha ns:originalKey="Data Recolha">04/06/2025</DataRecolha>
+            <Marca>Asus</Marca>
+            <Modelo>Expertbook</Modelo>
+            <NS ns:originalKey="N/S">SN722503</NS>
+            <Carregador>false</Carregador>
+            <Bateria>false</Bateria>
+            <CaboAC ns:originalKey="Cabo A/C">true</CaboAC>
+            <Avaria>Não carrega</Avaria>
+            <Diagnostico>Reballing GPU</Diagnostico>
+            <DataOramentado ns:originalKey="Data Orçamentado">16/01/2025</DataOramentado>
+            <Valor>298.65</Valor>
+            <Aprovado>false</Aprovado>
+            <Pronto>false</Pronto>
+            <Enviado>false</Enviado>
+            <Observaes ns:originalKey="Observações">Pré-OK até 100</Observaes>
+            <Title>Asus ExpertBook B6 Flip review: Beefy workstation convertible with ...</Title>
+            <Link>https://www.notebookcheck.net/Asus-ExpertBook-B6-Flip-review-Beefy-workstation-convertible-with-stylus.681663.0.html</Link>
+            <Snippet>Asus ExpertBook B3 review: The powerful office laptop with 11-hour ...</Snippet>
+            <Description>In review at Notebookcheck is the Asus ExpertBook B6 Flip. Even for a workstation with a 16-inch screen, it is quite large and heavy. On the other hand, it houses an efficient cooling system inside that easily copes with 140 watts of waste heat from the Intel Core i9-12950HX and Nvidia RTX A2000.</Description>
+        </item>
+        <item>
+            <Rep>18648</Rep>
+            <Cliente>RM Informatica</Cliente>
+            <Contacto>Desconhecido</Contacto>
+            <DataEntrada ns:originalKey="Data Entrada">08/08/2025</DataEntrada>
+            <DataRecolha ns:originalKey="Data Recolha">27/07/2025</DataRecolha>
+            <Marca>Msi</Marca>
+            <Modelo>Modern</Modelo>
+            <NS ns:originalKey="N/S">SN557409</NS>
+            <Carregador>false</Carregador>
+            <Bateria>false</Bateria>
+            <CaboAC ns:originalKey="Cabo A/C">false</CaboAC>
+            <Avaria>Porta USB danificada</Avaria>
+            <Diagnostico>Reballing GPU</Diagnostico>
+            <DataOramentado ns:originalKey="Data Orçamentado">29/05/2025</DataOramentado>
+            <Valor>150.26</Valor>
+            <Aprovado>false</Aprovado>
+            <Pronto>false</Pronto>
+            <Enviado>false</Enviado>
+            <Observaes ns:originalKey="Observações">Sem Observacoes</Observaes>
+            <Title>MSI Modern 14 A10RB Laptop Review: Lighter than it Looks ...</Title>
+            <Link>https://www.notebookcheck.net/MSI-Modern-14-A10RB-Laptop-Review-Lighter-than-it-Looks.451093.0.html</Link>
+            <Snippet>MSI Modern 15 A11M in review: Slim office laptop offers strong ...</Snippet>
+            <Description>MSI's latest mid-range office laptop for content creators offers Comet Lake-U, GeForce MX250 graphics, and a well-calibrated 14-inch 1080p display all for under $900 USD and at a weight of just 1.2 kg. Its advantages are clear, but some of its disadvantages are just glaring.</Description>
+        </item>
+        <item>
+            <Rep>18675</Rep>
+            <Cliente>CompLocal</Cliente>
+            <Contacto>Desconhecido</Contacto>
+            <DataEntrada ns:originalKey="Data Entrada">09/08/2025</DataEntrada>
+            <DataRecolha ns:originalKey="Data Recolha">16/05/2025</DataRecolha>
+            <Marca>Toshiba</Marca>
+            <Modelo>Portege</Modelo>
+            <NS ns:originalKey="N/S">SN805188</NS>
+            <Carregador>false</Carregador>
+            <Bateria>true</Bateria>
+            <CaboAC ns:originalKey="Cabo A/C">true</CaboAC>
+            <Avaria>Aquecimento excessivo</Avaria>
+            <Diagnostico>Substituir peça</Diagnostico>
+            <DataOramentado ns:originalKey="Data Orçamentado">26/07/2025</DataOramentado>
+            <Valor>60.31</Valor>
+            <Aprovado>false</Aprovado>
+            <Pronto>false</Pronto>
+            <Enviado>true</Enviado>
+            <Observaes ns:originalKey="Observações">Cliente solicita orçamento detalhado</Observaes>
+            <Title>Toshiba Portege Z20t-B Convertible Review - NotebookCheck.net ...</Title>
+            <Link>https://www.notebookcheck.net/Toshiba-Portege-Z20t-B-Convertible-Review.140840.0.html</Link>
+            <Snippet>Review Toshiba Portégé R700 Notebook - NotebookCheck.net ...</Snippet>
+            <Description>In-depth review of the Toshiba Portege Z20t-B-10C (Intel Core M 5Y71, Intel HD Graphics 5300, 12.5, 1.5 kg) with numerous measurements, benchmarks, and evaluations</Description>
+        </item>
+        <item>
+            <Rep>18684</Rep>
+            <Cliente>SmartFix</Cliente>
+            <Contacto>Desconhecido</Contacto>
+            <DataEntrada ns:originalKey="Data Entrada">23/07/2025</DataEntrada>
+            <DataRecolha ns:originalKey="Data Recolha">06/04/2025</DataRecolha>
+            <Marca>Samsung</Marca>
+            <Modelo>Book3</Modelo>
+            <NS ns:originalKey="N/S">SN858243</NS>
+            <Carregador>false</Carregador>
+            <Bateria>false</Bateria>
+            <CaboAC ns:originalKey="Cabo A/C">false</CaboAC>
+            <Avaria>Não liga</Avaria>
+            <Diagnostico>Atualização BIOS</Diagnostico>
+            <DataOramentado ns:originalKey="Data Orçamentado">20/01/2025</DataOramentado>
+            <Valor>123.6</Valor>
+            <Aprovado>false</Aprovado>
+            <Pronto>false</Pronto>
+            <Enviado>true</Enviado>
+            <Observaes ns:originalKey="Observações">Sem Observacoes</Observaes>
+            <Title>Samsung Galaxy Book3 Pro 14 review: Light office notebook with 20 ...</Title>
+            <Link>https://www.notebookcheck.net/Samsung-Galaxy-Book3-Pro-14-review-Light-office-notebook-with-20-hours-of-battery-life.717518.0.html</Link>
+            <Snippet>Samsung Galaxy Book3 Ultra 16 review: Enduring 16-inch ultrabook ...</Snippet>
+            <Description>In review at Notebookcheck is the Samsung Galaxy Book3 Pro 14 with a Core i7 1360P CPU, 16 GB RAM and AMOLED screen in 16:10 format. How does the 14-inch notebook compare to the competition?</Description>
+        </item>
+        <item>
+            <Rep>18744</Rep>
+            <Cliente>PCmais</Cliente>
+            <Contacto>Desconhecido</Contacto>
+            <DataEntrada ns:originalKey="Data Entrada">08/03/2025</DataEntrada>
+            <DataRecolha ns:originalKey="Data Recolha">01/04/2025</DataRecolha>
+            <Marca>Lenovo</Marca>
+            <Modelo>Ideapad</Modelo>
+            <NS ns:originalKey="N/S">SN652021</NS>
+            <Carregador>false</Carregador>
+            <Bateria>false</Bateria>
+            <CaboAC ns:originalKey="Cabo A/C">false</CaboAC>
+            <Avaria>Dobradiça solta</Avaria>
+            <Diagnostico>Limpeza interna</Diagnostico>
+            <DataOramentado ns:originalKey="Data Orçamentado">31/01/2025</DataOramentado>
+            <Valor>85.93</Valor>
+            <Aprovado>false</Aprovado>
+            <Pronto>false</Pronto>
+            <Enviado>true</Enviado>
+            <Observaes ns:originalKey="Observações">REP 00038</Observaes>
+            <Title>Lenovo IdeaPad Y900 17ISK Notebook Review - NotebookCheck ...</Title>
+            <Link>https://www.notebookcheck.net/Lenovo-IdeaPad-Y900-17ISK-Notebook-Review.174445.0.html</Link>
+            <Snippet>Review Lenovo IdeaPad Flex 15 Notebook - NotebookCheck.net ...</Snippet>
+            <Description>In-depth review of the Lenovo IdeaPad Y900 (Intel Core i7 6700HQ, NVIDIA GeForce GTX 980M, 17.3, 4.4 ) with numerous measurements, benchmarks, and evaluations</Description>
+        </item>
+    </Repair>
+</Nortitec>
