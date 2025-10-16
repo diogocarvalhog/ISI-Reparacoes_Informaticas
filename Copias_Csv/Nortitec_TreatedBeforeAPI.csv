@@ -1,0 +1,201 @@
+"Rep","Cliente","Contacto","Data Entrada","Data Recolha","Marca","Modelo","N/S","Carregador","Bateria","Cabo A/C","Avaria","Diagnostico","Data Orçamentado","Valor","Aprovado","Pronto","Enviado","Observações"
+18583,"TecLine",,"07/10/2025","05/08/2025","Apple","Macbook Air","SN877572",1,0,0,"Não liga","Substituir peça","16/01/2025",103.66,0,1,0,
+18584,"PCmais",,"21/03/2025","22/06/2025","Dell","Inspiron","SN895667",0,0,0,"Porta USB danificada","Troca de bateria","17/02/2025",73.18,0,0,1,"Pré-OK até 100"
+18585,"InfoMaster",,"05/02/2025","27/04/2025","Apple","Macbook Pro","SN969693",0,0,0,"Dobradiça solta","Limpeza interna","10/02/2025",265.62,0,1,0,
+18586,"TecLine",,"25/08/2025","19/05/2025","Dell","Inspiron","SN738720",0,0,1,"Não carrega","Troca de teclado","23/04/2025",259.71,0,0,0,"REP 00038"
+18587,"PCmais",,"16/05/2025","07/05/2025","Asus","Zenbook","SN787277",0,0,0,"Ventoinha ruidosa","Troca de teclado","03/10/2025",235.75,0,0,0,"REP 00038"
+18588,"RM Informatica",,"02/02/2025","15/07/2025","Hp","Probook","SN260265",0,0,0,"Teclado avariado","Reballing GPU","28/08/2025",111.85,0,0,0,"Pré-OK até 100"
+18589,"TecLine",,"14/09/2025","17/09/2025","Asus","Vivobook","SN407757",0,0,0,"Aquecimento excessivo","Troca de bateria","02/06/2025",201.24,0,0,0,"Verificar backup"
+18590,"PCmais",,"04/05/2025","10/02/2025","Asus","Tuf Gaming","SN120422",0,0,1,"Não carrega","Atualização BIOS","06/09/2025",293.5,0,0,0,
+18591,"PCmais",,"11/07/2025","22/09/2025","Msi","Prestige","SN665492",0,0,0,"Erro de disco","Reinstalar SO","03/03/2025",105.17,0,0,0,"Verificar backup"
+18592,"TecLine",,"23/05/2025","20/04/2025","Hp","Elitebook","SN170674",0,0,0,"Bateria viciada","Limpeza interna","09/03/2025",193.05,0,0,0,"Cliente solicita orçamento detalhado"
+18593,"InfoMaster",,"26/07/2025","25/02/2025","Huawei","Xpro","SN156802",0,0,0,"Ecrã partido","Atualização BIOS","09/04/2025",183.07,0,0,0,"REP 00038"
+18594,"FixLab",,"27/03/2025","06/09/2025","Samsung","Galaxy Book","SN153045",0,1,0,"Ecrã partido","Limpeza interna","20/04/2025",274.61,0,0,0,
+18595,"InfoMaster",,"30/01/2025","05/10/2025","Samsung","Book3","SN853305",0,0,0,"Erro de disco","Limpeza interna","10/06/2025",61.54,0,1,1,"Cliente solicita orçamento detalhado"
+18596,"RM Informatica",,"24/10/2025","21/01/2025","Toshiba","Satellite","SN808011",0,0,0,"Dobradiça solta","Limpeza interna","11/02/2025",213.34,0,1,0,
+18597,"TecLine",,"21/02/2025","03/10/2025","Dell","Vostro","SN431535",0,0,0,"Dobradiça solta","Reballing GPU","17/09/2025",82.11,0,0,0,"REP 00038"
+18598,"Nsistemas",,"10/03/2025","01/03/2025","Toshiba","Portege","SN654634",0,0,1,"Erro de disco","Substituir peça","11/10/2025",117.09,0,0,0,"Cliente solicita orçamento detalhado"
+18599,"Nsistemas",,"08/03/2025","24/03/2025","Hp","Probook","SN765095",0,1,0,"Aquecimento excessivo","Substituir ecrã","10/10/2025",189.23,0,0,0,"Cliente solicita orçamento detalhado"
+18600,"Sisopção",,"08/05/2025","01/07/2025","Msi","Prestige","SN143860",1,0,0,"Porta USB danificada","Limpeza interna","28/07/2025",236.37,0,0,0,
+18601,"DataHelp",,"29/08/2025","13/04/2025","Msi","Prestige","SN379766",0,0,0,"Teclado avariado","Atualização BIOS","29/06/2025",254.13,0,0,0,
+18602,"FixLab",,"15/01/2025","14/05/2025","Dell","Latitude","SN772642",1,0,0,"Bateria viciada","Substituir ecrã","25/10/2025",58.56,0,0,0,"REP 00038"
+18603,"DataHelp",,"03/10/2025","06/07/2025","Toshiba","Satellite","SN367095",0,0,0,"Aquecimento excessivo","Troca de carregador","05/02/2025",204.79,0,0,1,"Verificar backup"
+18604,"Nsistemas",,"19/10/2025","27/07/2025","Samsung","Galaxy Book","SN301158",0,0,0,"Não liga","Reballing GPU","01/01/2025",120.73,0,0,0,
+18605,"DigitalPT",,"21/06/2025","01/05/2025","Huawei","X Pro","SN277934",0,0,1,"Bateria viciada","Reballing GPU","26/04/2025",85.84,0,0,0,"Verificar backup"
+18606,"TecLine",,"17/03/2025","24/02/2025","Toshiba","Satellite","SN853240",0,0,0,"Teclado avariado","Limpeza interna","23/04/2025",250.03,0,0,1,"Cliente solicita orçamento detalhado"
+18607,"CompLocal",,"08/10/2025","23/03/2025","Samsung","Book3","SN724377",0,0,0,"Bateria viciada","Reinstalar SO","19/08/2025",236.94,0,1,0,
+18608,"SmartFix",,"16/07/2025","20/04/2025","Dell","Latitude","SN435239",1,0,0,"Não liga","Limpeza interna","01/08/2025",131.72,0,0,0,"Cliente solicita orçamento detalhado"
+18609,"ReparaJá",,"03/08/2025","07/10/2025","Hp","Victus","SN498858",0,0,0,"Erro de disco","Reinstalar SO","23/04/2025",103.86,0,0,0,
+18610,"Sisopção",,"14/01/2025","08/08/2025","Huawei","Matebook","SN752483",1,0,0,"Dobradiça solta","Reballing GPU","25/08/2025",61.57,0,0,0,
+18611,"FixLab",,"29/06/2025","05/02/2025","Msi","Raider","SN975467",0,0,0,"Bateria viciada","Atualização BIOS","16/01/2025",98.84,0,0,0,"Cliente solicita orçamento detalhado"
+18612,"SmartFix",,"25/03/2025","25/02/2025","Huawei","X Pro","SN368690",0,0,0,"Dobradiça solta","Substituir peça","14/01/2025",192.95,0,0,0,"Cliente solicita orçamento detalhado"
+18613,"RM Informatica",,"09/07/2025","17/09/2025","Dell","Inspiron","SN934904",0,0,0,"Bateria viciada","Reinstalar SO","07/01/2025",254.58,0,0,0,
+18614,"Sisopção",,"18/05/2025","06/05/2025","Samsung","Book3","SN383201",0,1,0,"Ventoinha ruidosa","Reinstalar SO","23/05/2025",109.97,0,0,0,
+18615,"Sisopção",,"12/10/2025","22/09/2025","Huawei","Matebook","SN472060",1,0,1,"Dobradiça solta","Troca de bateria","13/02/2025",229.02,0,1,0,
+18616,"Trilogica",,"08/07/2025","11/10/2025","Apple","Macbook Pro","SN332360",0,0,0,"Erro de disco","Reballing GPU","26/06/2025",298.16,0,0,0,
+18617,"SmartFix",,"05/09/2025","26/09/2025","Asus","Vivobook","SN878967",1,0,0,"Não carrega","Limpeza interna","25/05/2025",257.16,0,0,0,"Cliente solicita orçamento detalhado"
+18618,"Trilogica",,"07/01/2025","26/05/2025","Hp","Victus","SN406327",0,0,0,"Ventoinha ruidosa","Substituir peça","03/09/2025",134.18,0,1,0,"Pré-OK até 100"
+18619,"TecLine",,"13/10/2025","26/04/2025","Hp","Elitebook","SN256445",0,1,0,"Não carrega","Substituir peça","14/07/2025",276.13,0,0,0,"REP 00038"
+18620,"RM Informatica",,"30/03/2025","08/02/2025","Lenovo","Zenbook","SN321275",1,0,0,"Não liga","Limpeza interna","02/01/2025",161.63,0,1,0,"Cliente solicita orçamento detalhado"
+18621,"RM Informatica",,"28/02/2025","26/04/2025","Lenovo","Legion","SN926097",0,0,0,"Não carrega","Reinstalar SO","17/05/2025",66.85,0,1,0,
+18622,"CompLocal",,"21/01/2025","15/06/2025","Dell","Vostro","SN385470",1,1,0,"Ventoinha ruidosa","Substituir peça","09/05/2025",71.83,0,0,1,"Verificar backup"
+18623,"TecLine",,"29/08/2025","29/07/2025","Huawei","D15","SN290305",0,0,0,"Ventoinha ruidosa","Substituir peça","14/06/2025",263.43,0,0,0,
+18624,"DigitalPT",,"21/09/2025","05/10/2025","Hp","Omen","SN192337",0,1,0,"Ecrã partido","Reinstalar SO","31/07/2025",95.9,0,0,0,
+18625,"Sisopção",,"23/03/2025","10/10/2025","Dell","Vostro","SN832168",0,0,0,"Dobradiça solta","Limpeza interna","10/10/2025",72.3,0,0,0,
+18626,"DigitalPT",,"16/03/2025","08/04/2025","Dell","Vostro","SN975271",0,0,0,"Ventoinha ruidosa","Troca de carregador","18/09/2025",265.01,0,0,0,"Verificar backup"
+18627,"BitClinic",,"26/06/2025","10/10/2025","Toshiba","Portege","SN791998",0,0,0,"Bateria viciada","Troca de SSD","13/07/2025",282.21,0,0,0,"Verificar backup"
+18628,"MegaPC",,"19/01/2025","15/09/2025","Huawei","X Pro","SN950823",0,0,0,"Não liga","Troca de SSD","19/06/2025",267.55,0,0,1,
+18629,"Sisopção",,"18/06/2025","14/07/2025","Apple","Macbook Pro","SN919488",1,0,0,"Teclado avariado","Substituir peça","07/09/2025",57.97,0,0,0,
+18630,"InfoMaster",,"16/06/2025","31/05/2025","Apple","Macbook Air","SN565230",0,0,1,"Aquecimento excessivo","Atualização BIOS","11/07/2025",85.39,0,0,0,"Cliente solicita orçamento detalhado"
+18631,"PCmais",,"11/05/2025","27/08/2025","Lenovo","Yoga","SN711484",0,0,0,"Erro de disco","Troca de SSD","07/10/2025",67.47,0,0,1,
+18632,"Nsistemas",,"03/07/2025","01/06/2025","Lenovo","Yoga","SN994787",0,0,0,"Teclado avariado","Reballing GPU","12/01/2025",117.62,0,0,0,
+18633,"SmartFix",,"19/02/2025","08/06/2025","Toshiba","Tecra","SN329642",0,0,0,"Erro de disco","Troca de teclado","18/01/2025",140.22,0,0,1,"REP 00038"
+18634,"DigitalPT",,"23/06/2025","28/08/2025","Asus","Expertbook","SN626169",1,0,1,"Ventoinha ruidosa","Troca de bateria","14/03/2025",264.04,0,1,0,"Pré-OK até 100"
+18635,"CompLocal",,"25/02/2025","30/08/2025","Asus","Zenbook","SN885395",0,1,0,"Teclado avariado","Substituir ecrã","15/10/2025",277.81,0,0,0,
+18636,"InfoMaster",,"01/05/2025","11/03/2025","Apple","Macbookair","SN147549",0,1,0,"Ecrã partido","Substituir peça","21/08/2025",216.62,0,0,0,
+18637,"CompLocal",,"16/08/2025","05/07/2025","Toshiba","Tecra","SN393328",0,0,0,"Não carrega","Troca de SSD","08/07/2025",274.42,0,0,0,"REP 00038"
+18638,"CompLocal",,"05/05/2025","17/10/2025","Apple","Macbook Air","SN772875",0,0,0,"Aquecimento excessivo","Substituir ecrã","05/02/2025",100.79,0,0,0,"Cliente solicita orçamento detalhado"
+18639,"Sisopção",,"08/01/2025","02/05/2025","Acer","Predator","SN362829",0,0,0,"Aquecimento excessivo","Troca de teclado","15/06/2025",92.56,0,0,0,
+18640,"FixLab",,"23/01/2025","04/06/2025","Asus","Expertbook","SN722503",0,0,1,"Não carrega","Reballing GPU","16/01/2025",298.65,0,0,0,"Pré-OK até 100"
+18641,"RM Informatica",,"08/10/2025","15/07/2025","Asus","Expertbook","SN255539",0,0,1,"Dobradiça solta","Reballing GPU","29/09/2025",162.43,0,0,0,"Pré-OK até 100"
+18642,"ReparaJá",,"01/08/2025","10/06/2025","Lenovo","Yoga","SN573489",0,0,0,"Ventoinha ruidosa","Reinstalar SO","10/06/2025",142.58,0,0,0,"Pré-OK até 100"
+18643,"ReparaJá",,"04/03/2025","01/07/2025","Asus","Zenbook","SN683397",0,0,1,"Bateria viciada","Substituir ecrã","27/01/2025",199.1,0,0,0,"Verificar backup"
+18644,"RM Informatica",,"15/10/2025","13/10/2025","Asus","Expertbook","SN485415",0,1,0,"Não carrega","Reinstalar SO","17/05/2025",94.1,0,0,0,"Pré-OK até 100"
+18645,"RM Informatica",,"12/07/2025","21/08/2025","Acer","Ideapad","SN763928",0,0,0,"Bateria viciada","Limpeza interna","22/03/2025",126.91,0,0,0,"Pré-OK até 100"
+18646,"Trilogica",,"01/08/2025","21/04/2025","Apple","Macbookpro","SN564637",0,0,0,"Dobradiça solta","Troca de SSD","28/02/2025",156.48,0,0,0,"Verificar backup"
+18647,"InfoMaster",,"29/05/2025","03/03/2025","Toshiba","Satellite","SN108060",0,1,0,"Não liga","Troca de bateria","12/09/2025",92.92,0,1,0,"Cliente solicita orçamento detalhado"
+18648,"RM Informatica",,"08/08/2025","27/07/2025","Msi","Modern","SN557409",0,0,0,"Porta USB danificada","Reballing GPU","29/05/2025",150.26,0,0,0,
+18649,"BitClinic",,"08/06/2025","24/04/2025","Apple","Macbook Air","SN556839",0,0,1,"Ecrã partido","Reinstalar SO","28/03/2025",176.62,0,1,1,"Cliente solicita orçamento detalhado"
+18650,"BitClinic",,"20/03/2025","01/04/2025","Acer","Nitro","SN207798",0,1,0,"Não liga","Reballing GPU","26/08/2025",238.97,0,0,0,
+18651,"TecLine",,"29/01/2025","17/09/2025","Asus","Zenbook","SN561124",0,0,0,"Erro de disco","Troca de bateria","08/06/2025",161.98,0,0,1,"Pré-OK até 100"
+18652,"PCmais",,"20/10/2025","14/06/2025","Samsung","Book2","SN585188",0,1,0,"Aquecimento excessivo","Troca de SSD","01/09/2025",86.72,0,0,0,"REP 00038"
+18653,"Trilogica",,"06/07/2025","25/05/2025","Lenovo","Zenbook","SN559022",0,1,1,"Dobradiça solta","Troca de teclado","29/07/2025",218.72,0,0,0,"REP 00038"
+18654,"Nsistemas",,"08/06/2025","08/03/2025","Dell","Xps","SN449555",0,0,0,"Não liga","Substituir ecrã","13/02/2025",188.73,0,0,0,
+18655,"DigitalPT",,"20/04/2025","06/09/2025","Apple","Macbookpro","SN633188",0,0,0,"Erro de disco","Troca de teclado","26/04/2025",87.74,0,0,1,"Verificar backup"
+18656,"MegaPC",,"26/03/2025","23/01/2025","Toshiba","Satellite","SN726258",0,0,0,"Não liga","Reballing GPU","06/07/2025",291.4,0,0,0,"Cliente solicita orçamento detalhado"
+18657,"CompLocal",,"15/09/2025","03/08/2025","Lenovo","Legion","SN811256",0,0,0,"Erro de disco","Reinstalar SO","13/04/2025",83.6,0,0,0,
+18658,"BitClinic",,"17/03/2025","16/02/2025","Samsung","Galaxybook","SN398910",0,0,1,"Ventoinha ruidosa","Troca de carregador","19/08/2025",281.62,0,0,0,"Verificar backup"
+18659,"SmartFix",,"20/01/2025","30/08/2025","Hp","Pavilion","SN203896",0,0,0,"Não liga","Troca de teclado","29/08/2025",202.84,0,0,1,"Cliente solicita orçamento detalhado"
+18660,"DigitalPT",,"03/05/2025","23/08/2025","Msi","Modern","SN913875",1,0,1,"Ecrã partido","Atualização BIOS","26/02/2025",198.18,0,0,1,"Verificar backup"
+18661,"PCmais",,"04/07/2025","27/09/2025","Asus","Zenbook","SN698384",0,0,0,"Ecrã partido","Troca de carregador","17/09/2025",187.54,0,0,0,
+18662,"MegaPC",,"20/06/2025","23/01/2025","Apple","Macbook Pro","SN352838",0,0,0,"Ecrã partido","Reballing GPU","07/10/2025",252.38,0,0,0,
+18663,"ReparaJá",,"08/06/2025","23/07/2025","Huawei","Matebook","SN407696",0,0,0,"Aquecimento excessivo","Substituir ecrã","31/08/2025",58.16,0,1,0,"Pré-OK até 100"
+18664,"MegaPC",,"12/09/2025","23/09/2025","Msi","Stealth","SN879414",0,0,0,"Não liga","Troca de SSD","12/02/2025",68.73,0,1,1,"REP 00038"
+18665,"CompLocal",,"22/01/2025","11/08/2025","Toshiba","Portege","SN546815",0,0,0,"Porta USB danificada","Troca de SSD","30/01/2025",216.8,0,0,1,
+18666,"PCmais",,"16/07/2025","17/01/2025","Huawei","Matebook","SN232361",0,0,0,"Porta USB danificada","Substituir ecrã","20/03/2025",286.21,0,0,0,"Verificar backup"
+18667,"Nsistemas",,"15/10/2025","15/05/2025","Lenovo","Ideapad","SN127172",0,0,0,"Bateria viciada","Reinstalar SO","17/08/2025",298.09,0,0,0,"Cliente solicita orçamento detalhado"
+18668,"DataHelp",,"09/10/2025","29/05/2025","Huawei","Matebook","SN949884",0,0,0,"Porta USB danificada","Substituir peça","22/03/2025",247.42,0,0,0,"Cliente solicita orçamento detalhado"
+18669,"PCmais",,"08/06/2025","03/09/2025","Asus","Tuf Gaming","SN942700",1,0,0,"Ecrã partido","Substituir peça","30/07/2025",254.83,0,0,0,
+18670,"Sisopção",,"05/03/2025","20/03/2025","Samsung","Book3","SN716338",0,0,0,"Bateria viciada","Atualização BIOS","26/03/2025",129.67,0,0,1,"REP 00038"
+18671,"DigitalPT",,"28/03/2025","25/10/2025","Dell","Xps","SN755383",1,0,1,"Ecrã partido","Troca de carregador","29/03/2025",229.16,0,0,0,"Pré-OK até 100"
+18672,"Nsistemas",,"29/05/2025","05/09/2025","Lenovo","Thinkbook","SN536822",0,0,0,"Ventoinha ruidosa","Troca de carregador","27/07/2025",162.39,0,0,0,
+18673,"MegaPC",,"24/02/2025","04/05/2025","Asus","Zenbook","SN462147",0,0,0,"Bateria viciada","Troca de carregador","04/03/2025",161.4,0,0,0,"REP 00038"
+18674,"BitClinic",,"13/09/2025","28/08/2025","Acer","Matebook","SN443341",0,0,0,"Não carrega","Troca de teclado","07/06/2025",54.79,0,1,0,"Cliente solicita orçamento detalhado"
+18675,"CompLocal",,"09/08/2025","16/05/2025","Toshiba","Portege","SN805188",0,1,1,"Aquecimento excessivo","Substituir peça","26/07/2025",60.31,0,0,1,"Cliente solicita orçamento detalhado"
+18676,"CompLocal",,"19/02/2025","11/07/2025","Samsung","Book2","SN965401",0,0,0,"Ecrã partido","Troca de teclado","13/10/2025",237.74,0,0,1,
+18677,"MegaPC",,"13/06/2025","21/07/2025","Huawei","X Pro","SN579187",0,0,1,"Não liga","Substituir ecrã","03/06/2025",133.09,0,0,0,"REP 00038"
+18678,"RM Informatica",,"31/08/2025","24/10/2025","Msi","Thin","SN422623",0,0,0,"Aquecimento excessivo","Reballing GPU","27/04/2025",194.88,0,1,0,
+18679,"TecLine",,"10/06/2025","19/03/2025","Lenovo","Ideapad","SN700383",0,0,0,"Aquecimento excessivo","Troca de SSD","15/04/2025",174.45,0,0,0,"Pré-OK até 100"
+18680,"TecLine",,"07/10/2025","16/05/2025","Huawei","X Pro","SN495129",0,0,0,"Bateria viciada","Substituir ecrã","05/09/2025",288.33,0,1,1,"Cliente solicita orçamento detalhado"
+18681,"ReparaJá",,"21/05/2025","04/03/2025","Lenovo","Zenbook","SN839233",0,0,0,"Porta USB danificada","Troca de carregador","06/10/2025",272.94,0,0,0,"REP 00038"
+18682,"DataHelp",,"19/05/2025","20/05/2025","Huawei","X Pro","SN368900",0,0,0,"Não carrega","Troca de carregador","25/02/2025",234.22,0,0,0,
+18683,"RM Informatica",,"09/10/2025","28/07/2025","Msi","Raider","SN852204",0,0,0,"Não liga","Atualização BIOS","02/09/2025",237.98,0,0,1,
+18684,"SmartFix",,"23/07/2025","06/04/2025","Samsung","Book3","SN858243",0,0,0,"Não liga","Atualização BIOS","20/01/2025",123.6,0,0,1,
+18685,"Sisopção",,"12/05/2025","08/01/2025","Samsung","Book2","SN386090",0,0,0,"Não liga","Troca de SSD","01/06/2025",217.6,0,0,0,
+18686,"RM Informatica",,"14/05/2025","01/05/2025","Msi","Modern","SN293757",0,0,0,"Não carrega","Atualização BIOS","17/05/2025",124.49,0,1,0,"REP 00038"
+18687,"Nsistemas",,"08/07/2025","24/04/2025","Acer","Spin","SN819400",1,0,1,"Ecrã partido","Troca de bateria","10/03/2025",87.3,0,0,0,"Verificar backup"
+18688,"BitClinic",,"05/07/2025","16/10/2025","Lenovo","Thinkpad","SN813390",0,0,1,"Ventoinha ruidosa","Troca de carregador","01/02/2025",274.72,0,0,1,"Cliente solicita orçamento detalhado"
+18689,"TecLine",,"21/08/2025","20/09/2025","Lenovo","Zenbook","SN711474",0,0,1,"Ventoinha ruidosa","Atualização BIOS","22/08/2025",63.43,0,0,1,
+18690,"SmartFix",,"31/01/2025","30/08/2025","Toshiba","Satellite","SN147489",0,0,0,"Ecrã partido","Troca de carregador","27/05/2025",94,0,0,0,
+18691,"CompLocal",,"02/03/2025","03/10/2025","Msi","Stealth","SN184148",0,0,1,"Não liga","Substituir ecrã","28/09/2025",230.96,0,0,0,"REP 00038"
+18692,"InfoMaster",,"17/01/2025","09/01/2025","Lenovo","Thinkpad","SN583000",0,0,1,"Não carrega","Substituir peça","16/04/2025",74.22,0,0,0,
+18693,"InfoMaster",,"30/04/2025","13/06/2025","Huawei","Matebook","SN665979",0,0,0,"Bateria viciada","Troca de bateria","14/06/2025",124.44,0,0,1,"Cliente solicita orçamento detalhado"
+18694,"PCmais",,"15/07/2025","13/06/2025","Acer","Ideapad","SN811721",0,1,0,"Aquecimento excessivo","Substituir ecrã","29/07/2025",123.97,0,1,0,"Cliente solicita orçamento detalhado"
+18695,"FixLab",,"18/07/2025","11/05/2025","Huawei","Matebook","SN689704",0,0,1,"Bateria viciada","Troca de teclado","19/06/2025",279.56,0,0,1,
+18696,"PCmais",,"03/09/2025","20/06/2025","Toshiba","Satellite","SN176319",0,0,0,"Bateria viciada","Limpeza interna","08/01/2025",283.29,0,0,0,"Cliente solicita orçamento detalhado"
+18697,"SmartFix",,"07/06/2025","04/07/2025","Samsung","Book2","SN913185",1,0,0,"Bateria viciada","Substituir ecrã","12/09/2025",73.65,0,0,0,"REP 00038"
+18698,"ReparaJá",,"20/03/2025","18/06/2025","Acer","Aspire","SN373441",1,0,0,"Teclado avariado","Troca de bateria","14/07/2025",257.34,0,1,0,
+18699,"ReparaJá",,"08/09/2025","05/10/2025","Huawei","D15","SN276405",0,0,0,"Não liga","Troca de carregador","26/09/2025",258.77,0,0,0,"Pré-OK até 100"
+18700,"ReparaJá",,"05/09/2025","09/01/2025","Acer","Aspire","SN329344",1,0,0,"Aquecimento excessivo","Reballing GPU","30/09/2025",151.83,0,1,0,"REP 00038"
+18701,"ReparaJá",,"27/09/2025","01/07/2025","Msi","Prestige","SN212214",0,1,0,"Não carrega","Limpeza interna","23/07/2025",142.26,0,0,0,"Cliente solicita orçamento detalhado"
+18702,"BitClinic",,"29/01/2025","29/03/2025","Apple","Macbook Air","SN198042",0,0,0,"Bateria viciada","Troca de SSD","13/09/2025",210.23,0,0,0,"Verificar backup"
+18703,"ReparaJá",,"16/10/2025","02/04/2025","Toshiba","Tecra","SN384263",0,0,0,"Erro de disco","Troca de carregador","09/01/2025",195.76,0,0,1,"Cliente solicita orçamento detalhado"
+18704,"TecLine",,"27/06/2025","20/02/2025","Samsung","Book2","SN502491",0,0,0,"Ecrã partido","Troca de carregador","29/04/2025",134.15,0,0,0,
+18705,"MegaPC",,"01/06/2025","07/02/2025","Samsung","Book2","SN552825",0,0,0,"Teclado avariado","Substituir peça","18/05/2025",144,0,0,0,"REP 00038"
+18706,"CompLocal",,"13/10/2025","20/09/2025","Asus","Rog Strix","SN207197",0,0,0,"Teclado avariado","Troca de SSD","22/02/2025",71.4,0,0,0,"REP 00038"
+18707,"FixLab",,"13/03/2025","04/06/2025","Apple","Macbook Air","SN699743",1,0,0,"Teclado avariado","Troca de teclado","10/09/2025",64.82,0,1,0,"REP 00038"
+18708,"SmartFix",,"04/01/2025","20/06/2025","Huawei","X Pro","SN746624",0,0,0,"Não liga","Troca de bateria","14/07/2025",159.06,0,0,0,"Cliente solicita orçamento detalhado"
+18709,"CompLocal",,"05/05/2025","12/07/2025","Asus","Zenbook","SN517584",0,1,0,"Ventoinha ruidosa","Reballing GPU","21/07/2025",77.47,0,0,1,"Cliente solicita orçamento detalhado"
+18710,"CompLocal",,"13/03/2025","04/05/2025","Lenovo","Yoga","SN936433",1,0,0,"Teclado avariado","Troca de SSD","20/03/2025",246.27,0,0,0,
+18711,"BitClinic",,"25/02/2025","01/07/2025","Msi","Thin","SN138551",0,0,1,"Dobradiça solta","Substituir peça","23/01/2025",294.9,0,0,0,"Pré-OK até 100"
+18712,"DigitalPT",,"26/08/2025","14/09/2025","Samsung","Book3","SN821068",0,0,0,"Porta USB danificada","Reinstalar SO","26/06/2025",169.69,0,0,0,"Pré-OK até 100"
+18713,"MegaPC",,"20/08/2025","04/02/2025","Huawei","Matebook","SN646428",0,0,0,"Ecrã partido","Troca de SSD","23/01/2025",54.65,0,0,0,
+18714,"DigitalPT",,"27/07/2025","06/04/2025","Acer","Predator","SN267914",0,1,0,"Ventoinha ruidosa","Limpeza interna","22/07/2025",233.35,0,0,0,
+18715,"FixLab",,"23/08/2025","15/05/2025","Apple","Macbook Air","SN938338",1,0,0,"Porta USB danificada","Limpeza interna","28/09/2025",198.24,0,0,0,"REP 00038"
+18716,"TecLine",,"01/03/2025","11/07/2025","Dell","Inspiron","SN804758",0,0,0,"Não carrega","Troca de bateria","19/09/2025",153.56,0,0,0,
+18717,"TecLine",,"19/08/2025","28/01/2025","Acer","Predator","SN274971",0,1,0,"Não liga","Substituir ecrã","05/01/2025",83.13,0,1,1,
+18718,"BitClinic",,"17/01/2025","26/04/2025","Huawei","D15","SN275377",0,0,0,"Não carrega","Troca de bateria","28/05/2025",244.19,0,1,1,"Pré-OK até 100"
+18719,"MegaPC",,"22/02/2025","02/06/2025","Samsung","Galaxy Book","SN896922",0,0,1,"Não carrega","Reinstalar SO","19/08/2025",136.14,0,0,0,"Cliente solicita orçamento detalhado"
+18720,"BitClinic",,"31/01/2025","29/06/2025","Toshiba","Portege","SN548965",0,0,0,"Não carrega","Limpeza interna","24/05/2025",183.69,0,0,1,"REP 00038"
+18721,"DataHelp",,"08/05/2025","14/06/2025","Apple","Macbook Air","SN886530",0,0,1,"Não liga","Troca de teclado","21/07/2025",84.54,0,0,0,
+18722,"RM Informatica",,"17/06/2025","02/01/2025","Msi","Thin","SN886224",1,0,0,"Ventoinha ruidosa","Troca de SSD","23/08/2025",261.53,0,0,0,"Cliente solicita orçamento detalhado"
+18723,"DigitalPT",,"20/02/2025","09/01/2025","Toshiba","Satellite","SN693643",0,0,0,"Aquecimento excessivo","Atualização BIOS","22/03/2025",163.13,0,0,0,"Cliente solicita orçamento detalhado"
+18724,"DataHelp",,"27/01/2025","06/06/2025","Dell","Inspiron","SN786385",0,1,0,"Porta USB danificada","Troca de teclado","08/08/2025",224.92,0,0,0,"Pré-OK até 100"
+18725,"Trilogica",,"06/02/2025","16/07/2025","Hp","Thinkpad","SN460263",0,0,0,"Não liga","Troca de SSD","22/02/2025",127.34,0,0,0,"Cliente solicita orçamento detalhado"
+18726,"PCmais",,"30/07/2025","15/08/2025","Hp","Victus","SN781595",0,0,0,"Não carrega","Troca de teclado","14/02/2025",84,0,0,0,
+18727,"SmartFix",,"14/01/2025","16/04/2025","Dell","Inspiron","SN360221",1,0,0,"Dobradiça solta","Troca de bateria","18/09/2025",235.96,0,0,0,"Cliente solicita orçamento detalhado"
+18728,"PCmais",,"07/07/2025","30/03/2025","Apple","Macbook Air","SN478638",0,0,0,"Dobradiça solta","Reinstalar SO","07/02/2025",195.84,0,1,0,"Pré-OK até 100"
+18729,"Nsistemas",,"20/03/2025","12/02/2025","Samsung","Book2","SN544150",0,0,0,"Bateria viciada","Troca de carregador","10/02/2025",279.23,0,1,0,
+18730,"TecLine",,"14/02/2025","01/03/2025","Apple","Macbook Pro","SN832614",0,0,0,"Aquecimento excessivo","Limpeza interna","29/01/2025",215.52,0,0,0,
+18731,"MegaPC",,"18/05/2025","16/01/2025","Samsung","Book3","SN921021",0,1,0,"Porta USB danificada","Troca de teclado","08/08/2025",179.96,0,0,0,
+18732,"CompLocal",,"27/04/2025","02/01/2025","Toshiba","Satellite","SN485548",0,1,0,"Dobradiça solta","Substituir peça","07/01/2025",60.5,0,0,0,"Cliente solicita orçamento detalhado"
+18733,"DataHelp",,"09/02/2025","10/07/2025","Msi","Prestige","SN437433",0,0,0,"Porta USB danificada","Troca de bateria","15/09/2025",93.84,0,0,0,
+18734,"RM Informatica",,"05/05/2025","08/07/2025","Samsung","Book2","SN108356",0,0,1,"Dobradiça solta","Troca de bateria","10/09/2025",232.12,0,0,0,
+18735,"ReparaJá",,"16/04/2025","02/05/2025","Hp","Pavilion","SN101533",0,0,0,"Erro de disco","Substituir peça","09/09/2025",292.14,0,0,1,"Pré-OK até 100"
+18736,"InfoMaster",,"21/07/2025","18/10/2025","Asus","Tuf Gaming","SN884229",0,0,0,"Bateria viciada","Troca de teclado","11/08/2025",108.19,0,0,0,
+18737,"SmartFix",,"19/08/2025","10/06/2025","Apple","Macbook Air","SN242723",0,0,0,"Ecrã partido","Troca de teclado","03/03/2025",138.57,0,0,1,
+18738,"TecLine",,"22/07/2025","26/01/2025","Dell","Inspiron","SN325465",0,0,0,"Não carrega","Substituir ecrã","14/05/2025",56.77,0,0,1,
+18739,"FixLab",,"10/07/2025","26/10/2025","Acer","Aspire","SN112537",0,0,0,"Não carrega","Reinstalar SO","13/05/2025",54.45,0,0,0,
+18740,"FixLab",,"22/07/2025","16/01/2025","Asus","Vivobook","SN144770",0,0,0,"Dobradiça solta","Reinstalar SO","07/08/2025",137.49,0,1,1,
+18741,"SmartFix",,"16/07/2025","03/08/2025","Dell","Vostro","SN532005",1,0,0,"Ecrã partido","Troca de bateria","27/09/2025",206.69,0,0,0,"REP 00038"
+18742,"PCmais",,"23/04/2025","24/05/2025","Samsung","Book2","SN507247",1,0,0,"Porta USB danificada","Reballing GPU","30/08/2025",138.36,0,0,0,"Cliente solicita orçamento detalhado"
+18743,"DataHelp",,"12/06/2025","15/01/2025","Hp","Elitebook","SN703656",0,0,0,"Não liga","Limpeza interna","18/10/2025",84.53,0,0,1,"REP 00038"
+18744,"PCmais",,"08/03/2025","01/04/2025","Lenovo","Ideapad","SN652021",0,0,0,"Dobradiça solta","Limpeza interna","31/01/2025",85.93,0,0,1,"REP 00038"
+18745,"InfoMaster",,"07/09/2025","31/03/2025","Toshiba","Satellite","SN452909",1,0,0,"Não liga","Reinstalar SO","02/07/2025",215.38,0,0,1,
+18746,"ReparaJá",,"24/04/2025","23/02/2025","Toshiba","Tecra","SN992083",0,0,0,"Dobradiça solta","Substituir ecrã","14/03/2025",235.34,0,0,0,"Cliente solicita orçamento detalhado"
+18747,"TecLine",,"12/05/2025","01/01/2025","Asus","Tuf Gaming","SN111949",1,0,0,"Ecrã partido","Substituir ecrã","17/07/2025",232.15,0,0,0,
+18748,"FixLab",,"18/01/2025","11/01/2025","Toshiba","Portege","SN895075",0,0,0,"Ventoinha ruidosa","Substituir peça","14/05/2025",67.55,0,0,0,
+18749,"MegaPC",,"11/08/2025","28/01/2025","Toshiba","Portege","SN606186",0,0,0,"Não liga","Reballing GPU","19/06/2025",292.6,0,0,1,
+18750,"Nsistemas",,"28/01/2025","02/01/2025","Lenovo","Ideapad","SN152046",0,0,1,"Ventoinha ruidosa","Troca de teclado","14/02/2025",254.97,0,0,0,"Pré-OK até 100"
+18751,"CompLocal",,"06/10/2025","05/04/2025","Apple","Macbook Pro","SN923002",0,0,0,"Erro de disco","Substituir peça","15/07/2025",95.65,0,1,0,
+18752,"Sisopção",,"11/10/2025","18/07/2025","Apple","Macbook Air","SN800596",0,1,0,"Dobradiça solta","Limpeza interna","03/08/2025",220.77,0,0,0,
+18753,"Trilogica",,"18/08/2025","27/03/2025","Samsung","Book3","SN641922",0,0,0,"Não liga","Substituir peça","09/04/2025",59.67,0,0,0,"Cliente solicita orçamento detalhado"
+18754,"Nsistemas",,"10/10/2025","22/05/2025","Asus","Zenbook","SN946561",0,0,0,"Bateria viciada","Reinstalar SO","23/08/2025",245.64,0,0,0,"Cliente solicita orçamento detalhado"
+18755,"RM Informatica",,"16/07/2025","20/10/2025","Apple","Macbook Air","SN923914",1,1,0,"Teclado avariado","Troca de bateria","31/08/2025",92.05,0,0,0,"Verificar backup"
+18756,"DataHelp",,"11/01/2025","05/06/2025","Asus","Zenbook","SN349119",0,0,0,"Erro de disco","Substituir ecrã","24/05/2025",263.56,0,0,0,"REP 00038"
+18757,"Nsistemas",,"06/09/2025","11/07/2025","Msi","Thin","SN776913",0,0,0,"Não carrega","Reinstalar SO","21/09/2025",65.4,0,0,1,"Verificar backup"
+18758,"BitClinic",,"08/07/2025","16/09/2025","Hp","Elitebook","SN134677",0,0,0,"Não carrega","Troca de bateria","05/03/2025",109.48,0,0,0,"Cliente solicita orçamento detalhado"
+18759,"MegaPC",,"17/07/2025","25/03/2025","Acer","Matebook","SN371224",0,0,0,"Erro de disco","Atualização BIOS","20/04/2025",210.84,0,1,0,
+18760,"TecLine",,"10/05/2025","06/06/2025","Hp","Omen","SN238741",0,0,0,"Aquecimento excessivo","Limpeza interna","05/08/2025",261.9,0,1,0,
+18761,"PCmais",,"25/05/2025","25/02/2025","Apple","Macbook Air","SN636361",0,0,1,"Dobradiça solta","Reballing GPU","02/02/2025",296.09,0,1,1,
+18762,"Sisopção",,"14/01/2025","01/06/2025","Samsung","Galaxy Book","SN159532",0,0,0,"Porta USB danificada","Troca de teclado","03/08/2025",146.07,0,0,0,"Verificar backup"
+18763,"TecLine",,"29/03/2025","03/04/2025","Samsung","Book3","SN923024",0,0,0,"Bateria viciada","Troca de bateria","19/02/2025",80.99,0,0,1,"Cliente solicita orçamento detalhado"
+18764,"SmartFix",,"27/10/2025","26/08/2025","Asus","Zenbook","SN880360",1,0,0,"Porta USB danificada","Troca de bateria","29/08/2025",265.6,0,0,0,"Verificar backup"
+18765,"InfoMaster",,"15/03/2025","03/04/2025","Hp","Elitebook","SN244037",0,0,0,"Dobradiça solta","Troca de SSD","07/09/2025",206.76,0,0,0,"Pré-OK até 100"
+18766,"Sisopção",,"26/07/2025","02/09/2025","Toshiba","Satellite","SN613358",0,0,0,"Teclado avariado","Reinstalar SO","03/01/2025",182.45,0,0,0,"Verificar backup"
+18767,"SmartFix",,"06/06/2025","03/02/2025","Lenovo","Zenbook","SN461076",1,0,0,"Teclado avariado","Troca de carregador","02/06/2025",162.98,0,0,0,"Cliente solicita orçamento detalhado"
+18768,"SmartFix",,"12/01/2025","16/09/2025","Acer","Matebook","SN522986",0,0,0,"Não liga","Limpeza interna","05/03/2025",226.78,0,0,0,"REP 00038"
+18769,"Trilogica",,"05/03/2025","10/05/2025","Apple","Macbook Air","SN150578",0,0,0,"Ventoinha ruidosa","Reinstalar SO","20/03/2025",222.8,0,1,0,
+18770,"ReparaJá",,"25/05/2025","24/02/2025","Acer","Spin","SN971002",0,1,0,"Dobradiça solta","Substituir peça","12/04/2025",98.94,0,1,0,"REP 00038"
+18771,"CompLocal",,"26/02/2025","10/09/2025","Lenovo","Zenbook","SN604012",0,0,0,"Aquecimento excessivo","Substituir peça","16/02/2025",67.76,0,1,0,"Cliente solicita orçamento detalhado"
+18772,"Trilogica",,"01/03/2025","24/01/2025","Apple","Macbook Air","SN141360",1,0,0,"Porta USB danificada","Reinstalar SO","12/03/2025",131.17,0,0,1,
+18773,"InfoMaster",,"27/02/2025","31/01/2025","Msi","Stealth","SN385037",0,0,0,"Teclado avariado","Troca de teclado","23/02/2025",276.81,0,0,0,
+18774,"Trilogica",,"14/05/2025","07/01/2025","Acer","Spin","SN611833",0,0,0,"Aquecimento excessivo","Substituir peça","23/10/2025",105,0,1,1,
+18775,"SmartFix",,"28/01/2025","22/03/2025","Huawei","D15","SN795951",0,0,0,"Não liga","Troca de carregador","29/08/2025",266.35,0,0,0,"Cliente solicita orçamento detalhado"
+18776,"DigitalPT",,"18/08/2025","13/09/2025","Msi","Stealth","SN956794",0,0,0,"Ventoinha ruidosa","Reballing GPU","11/06/2025",294.17,0,0,0,
+18777,"FixLab",,"24/06/2025","28/01/2025","Toshiba","Portege","SN768507",1,1,1,"Não carrega","Troca de SSD","21/08/2025",189.04,0,0,0,"REP 00038"
+18778,"SmartFix",,"24/02/2025","26/03/2025","Hp","Pavilion","SN472390",0,1,1,"Bateria viciada","Substituir ecrã","13/03/2025",75.74,0,0,0,
+18779,"MegaPC",,"23/08/2025","16/09/2025","Apple","Macbook Pro","SN148759",0,0,0,"Ecrã partido","Troca de SSD","13/09/2025",181.59,0,1,0,"Verificar backup"
+18780,"Sisopção",,"14/06/2025","16/07/2025","Toshiba","Satellite","SN865979",0,0,0,"Dobradiça solta","Reballing GPU","08/05/2025",148.47,0,1,0,"Cliente solicita orçamento detalhado"
+18781,"DigitalPT",,"18/04/2025","29/05/2025","Dell","Latitude","SN846454",0,1,0,"Não carrega","Limpeza interna","09/03/2025",174.97,0,0,0,"REP 00038"
+18782,"ReparaJá",,"15/07/2025","28/01/2025","Msi","Thin","SN399817",0,0,1,"Ecrã partido","Atualização BIOS","13/04/2025",236.55,0,1,0,"REP 00038"
