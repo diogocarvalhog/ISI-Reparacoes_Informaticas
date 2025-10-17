@@ -367,59 +367,6 @@ function renderReports() {
     `).join('');
 }
 
-function exportToCSV() {
-    if (repairsData.length === 0) {
-        alert('Não há dados para exportar!');
-        return;
-    }
-
-    const headers = [
-        'Rep', 'Cliente', 'Contacto', 'Data Entrada', 'Data Recolha',
-        'Marca', 'Modelo', 'N/S', 'Carregador', 'Bateria', 'Cabo A/C',
-        'Avaria', 'Diagnostico', 'Data Orçamentado', 'Valor',
-        'Aprovado', 'Pronto', 'Enviado', 'Observações'
-    ];
-
-    const csvContent = [
-        headers.join(','),
-        ...repairsData.map(r => [
-            r.Rep,
-            `"${r.Cliente}"`,
-            `"${r.Contacto}"`,
-            `"${r['Data Entrada']}"`,
-            `"${r['Data Recolha']}"`,
-            `"${r.Marca}"`,
-            `"${r.Modelo}"`,
-            `"${r['N/S']}"`,
-            r.Carregador ? 'Sim' : 'Não',
-            r.Bateria ? 'Sim' : 'Não',
-            r['Cabo A/C'] ? 'Sim' : 'Não',
-            `"${r.Avaria}"`,
-            `"${r.Diagnostico}"`,
-            `"${r['Data Orçamentado']}"`,
-            r.Valor.toFixed(2),
-            r.Aprovado ? 'Sim' : 'Não',
-            r.Pronto ? 'Sim' : 'Não',
-            r.Enviado ? 'Sim' : 'Não',
-            `"${r.Observações}"`
-        ].join(','))
-    ].join('\n');
-
-    const blob = new Blob(['\ufeff' + csvContent], { type: 'text/csv;charset=utf-8;' });
-    const link = document.createElement('a');
-    const url = URL.createObjectURL(blob);
-    
-    link.setAttribute('href', url);
-    link.setAttribute('download', `reparacoes_export_${new Date().toISOString().split('T')[0]}.csv`);
-    link.style.visibility = 'hidden';
-    
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-    
-    alert('Ficheiro CSV exportado com sucesso!');
-}
-
 // Close modal when clicking outside
 window.onclick = function(event) {
     const modal = document.getElementById('detailsModal');
