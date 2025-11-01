@@ -1,17 +1,17 @@
-# 💻 ISI – Reparações Informáticas
+# ISI – Reparações Informáticas
 
 Aplicação desenvolvida no âmbito da unidade curricular **Integração de Sistemas de Informação (ISI)**.  
 O projeto tem como objetivo demonstrar a integração de dados através de um processo **ETL** e a sua visualização num **dashboard web interativo**.
 
 ---
 
-## 🚀 Descrição
+## Descrição
 
 O sistema gere e analisa dados de **reparações informáticas**, permitindo normalizar informação proveniente de ficheiros CSV, enriquecê-la com dados externos (via API) e apresentá-la de forma dinâmica numa interface web.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Importação e limpeza de dados através do **KNIME Analytics Platform**  
 - Enriquecimento de informação com **Google Custom Search API**  
@@ -23,7 +23,7 @@ O sistema gere e analisa dados de **reparações informáticas**, permitindo nor
 
 ---
 
-## 🧩 Tecnologias
+## Tecnologias
 
 | Tipo | Ferramentas / Linguagens |
 |------|---------------------------|
@@ -35,7 +35,7 @@ O sistema gere e analisa dados de **reparações informáticas**, permitindo nor
 
 ---
 
-## 📂 Estrutura
+## Estrutura
 
 ```text
 ISI-Reparacoes_Informaticas/
@@ -54,7 +54,7 @@ ISI-Reparacoes_Informaticas/
 
 ---
 
-## ▶️ Como Usar
+## Como Usar
 
 1. **Executar o workflow KNIME** para gerar o ficheiro `output.csv`.  
 2. **Abrir o ficheiro `index.html`** no navegador.  
@@ -64,7 +64,7 @@ ISI-Reparacoes_Informaticas/
 
 ---
 
-## 📈 Possíveis Melhorias
+## Possíveis Melhorias
 
 - Integração com base de dados SQL  
 - Criação de gráficos dinâmicos (Chart.js / Recharts)  
@@ -73,12 +73,12 @@ ISI-Reparacoes_Informaticas/
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Diogo Graça**  
 Licenciatura em Engenharia de Sistemas Informáticos — IPCA  
-📅 2025/2026
+2025/2026
 
-🎥 Demonstração: [https://youtu.be/_xdVK6bqDsI](https://youtu.be/_xdVK6bqDsI)
+Demonstração: [https://youtu.be/_xdVK6bqDsI](https://youtu.be/_xdVK6bqDsI)
 
 ---
