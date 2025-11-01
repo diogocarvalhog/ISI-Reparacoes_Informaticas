@@ -37,18 +37,20 @@ O sistema gere e analisa dados de **reparações informáticas**, permitindo nor
 
 ## 📂 Estrutura
 
+```text
 ISI-Reparacoes_Informaticas/
-├── KNIME_Workflow/         # Workflow ETL no KNIME
+├── KNIME_Workflow/         
 │   ├── workflow.knwf
 │   └── outputs/
 │       ├── output.csv
 │       ├── output.json
 │       └── output.xml
-├── web_dashboard/           # Dashboard web
+├── web_dashboard/           
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 └── README.md
+```
 
 ---
 
